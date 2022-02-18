@@ -1,0 +1,128 @@
+﻿[
+	{
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png", 
+    "solutionIMG":"1_1.png", 
+    "answer": "Seven",
+    "answer2": "up",
+    "clue1": "An American brand of lemon-lime-flavored non-caffeinated soft drink.",
+    "clue2": "The beverages were originally sold in 7-ounce bottles.",
+    "description": "It's owned by the Coca-Cola company. Today, 7UP is owned by Keurig Dr Pepper in the United States, and PepsiCo in the rest of the world. ... 7up is an American brand of lemon-lime-flavored non-caffeinated soft drink.",
+    "slogan": "'Fresh Up - Keep Smiling.'",
+    "owner": "Keurig Dr Pepper in the United States"
+  },
+  { 
+    "id" : "2",
+    "questionIMG": "2.png", 
+    "solutionIMG":"2_2.png", 
+    "answer": "Apple",
+    "answer2": "",
+    "clue1": "this mobile and computer company has it's name on a fruit name.",
+    "clue2": "they own its own hardware, operating system, applications and services.",
+    "description": "Steve Jobs was a charismatic pioneer of the personal computer era. With Steve Wozniak, Jobs founded Apple Inc. in 1976 and transformed the company into a world leader in telecommunications. Widely considered a visionary and a genius, he oversaw the launch of such revolutionary products as the iPod and the iPhone.",
+    "slogan": "'Think Different — But Not Too Different'",
+    "owner": "Steve Jobs was a charismatic pioneer of the personal computer era."
+  },
+  { 
+    "id" : "3",
+    "questionIMG": "3.png", 
+    "solutionIMG":"3_3.png", 
+    "answer": "Baskin",
+    "answer2": "Robbins",
+    "clue1": "United state food chain of ice cream palours",
+    "clue2": "The pink parts of the B and R make up the number 31.",
+    "description": "Baskin-Robbins was founded in 1948 by Jewish-Americans brothers-in-law Burt Baskin and Irv Robbins from the merging of their respective ice cream parlors, in Glendale, California.",
+    "slogan": "'31 flavors' / More flavors. More fun.",
+    "owner": "Burt Baskin and Irv Robbins"
+  },
+  { 
+    "id" : "4",
+    "questionIMG": "4.png", 
+    "solutionIMG":"4_4.png", 
+    "answer": "Dominos",
+    "answer2": "",
+    "clue1": "The founder was a college Dropout",
+    "clue2": "The world’s first fast food delivered by Drone.",
+    "description": "Domino's is the largest pizza restaurant chain in the world, with more than 18,300 stores in over 90 markets. Founded in '1960.'",
+    "slogan": "'It's what we do'",
+    "owner": "Tom Monaghan and his brother James"
+  },
+  { 
+    "id" : "5",
+    "questionIMG": "5.png", 
+    "solutionIMG":"5_5.png", 
+    "answer": "Honda",
+    "answer2": "",
+    "clue1": "The company who made the First Four-Wheel Drive Car",
+    "clue2": "The world's largest motorcycle manufacturer company since 1959",
+    "description": "Honda has been the world's largest motorcycle manufacturer since 1959.",
+    "slogan": "'The power of dreams'",
+    "owner": "Mr. Soichiro Honda"
+  },
+  { 
+    "id" : "6",
+    "questionIMG": "6.png", 
+    "solutionIMG":"6_6.png", 
+    "answer": "Levis",
+    "answer2": "",
+    "clue1": "one of the most iconic jean brands and clothing company.",
+    "clue2": "The company mostly known for it denim jeans",
+    "description": "Levi Strauss & Co. is one of the world's largest apparel companies and a global ... line dry, and donate unused clothing so that it can be used again.",
+    "slogan": "“Live in Levi's”",
+    "owner": "Levi Strauss"
+  },
+  { 
+    "id" : "7",
+    "questionIMG": "7.png", 
+    "solutionIMG":"7_7.png", 
+    "answer": "McDonalds",
+    "answer2": "",
+    "clue1": "It is a popular known for fast food",
+    "clue2": "It's known for its hamburgers, cheeseburgers and french fries, coke and many more.",
+    "description": "The first McDonald's opened as a barbecue restaurant. mcdonalds. It didn't become known for burgers and fries until 1948. AP.",
+    "slogan": "I'm lovin' it",
+    "owner": "Richard and Maurice McDonald."
+  },
+  { 
+    "id" : "8",
+    "questionIMG": "8.png", 
+    "solutionIMG":"8_8.png", 
+    "answer": "Nestle",
+    "answer2": "",
+    "clue1": "this company produces - Condensed and powdered milk, Baby foods, Chocolate products, Candies, Instant coffees, Soups, Ice cream.",
+    "clue2": "The name is derived from the Middle High German 'nesteler,'",
+    "description": "Nestlé was formed in 1905 by the merger of the 'Anglo-Swiss Milk Company', established in 1866 by brothers George and Charles Page, and 'Farine Lactée Henri Nestlé', founded in 1867 by Henri Nestlé.",
+    "slogan": "Good Food, Good Life",
+    "owner": "Henri Nestlé"
+  },
+  { 
+    "id" : "9",
+    "questionIMG": "9.png", 
+    "solutionIMG":"9_9.png", 
+    "answer": "Nike",
+    "answer2": "",
+    "clue1": "It is an iconic brand best known for shoes.",
+    "clue2": "This company manufacturing high quality and good-looking shoes.",
+    "description": "The world's largest athletic apparel company, Nike is best known for its footwear, apparel, and equipment.Founded in 1964 as Blue Ribbon Sports, the company became Nike in 1971 after the Greek goddess of victory.",
+    "slogan": "Just do it",
+    "owner": "Philip Hampson Knight"
+  },
+  { 
+    "id" : "10",
+    "questionIMG": "10.png", 
+    "solutionIMG":"10_10.png", 
+    "answer": "Superman",
+    "answer2": "",
+    "clue1": " a fictional superhero who can fly millions of times faster than the speed of light.",
+    "clue2": "The ideal Superhero in the history and from his blue uniform to his flowing red cape to the 's' shield on his chest.",
+    "description": "Supermanis a fictional superhero who appears in American comic books published by DC Comics.",
+    "slogan": "",
+    "owner": "writer Jerry Siegel"
+  }
+
+]
+  
