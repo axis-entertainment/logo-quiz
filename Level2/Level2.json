@@ -1,0 +1,249 @@
+﻿[
+	{
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png", 
+    "solutionIMG":"1_1.png", 
+    "answer": "Blackberry",
+    "answer2": "",
+    "clue1": "This company was one of the most prominent smartphone brands in the world.",
+    "clue2": "The pioneer in bringing email services to handheld mobiles, with its trademark QWERTY keyboard",
+    "description": "Mike Lazaridis and Douglas Fregin is the founder of the BlackBerry, which created and manufactured the BlackBerry wireless handheld device. Blackberry is a brand of smartphones, tablets, and services originally designed and marketed by Canadian company BlackBerry Limited (formerly known as Research In Motion, or RIM). BlackBerry has introduced the tagline “Your Power. Upgraded” for its latest phone as it focuses on the functionality of its devices",
+    "slogan": "'Your Power. Upgraded.'",
+    "owner": "Mike Lazaridis and Douglas Fregin."
+  },
+  { 
+    "id" : "2",
+    "questionIMG": "2.png", 
+    "solutionIMG":"2_2.png", 
+    "answer": "Discovery",
+    "answer2": "",
+    "clue1": "It dedicated to creating the highest quality non-fiction content that informs and entertains.",
+    "clue2": "It initially provided documentary television programming focused primarily on popular science, technology and history.",
+    "description": "John Hendricks is the founder od discovery and he founded in 17 June 1985. The Discovery Channel incorporated to become Discovery Communications, Inc. which still owns and operates Discovery Channel today. The famous slogan Let's all discover",
+    "slogan": "'Let's all discover'",
+    "owner": "John Hendricks."
+  },
+  { 
+    "id" : "3",
+    "questionIMG": "3.png", 
+    "solutionIMG":"3_3.png", 
+    "answer": "Amazon",
+    "answer2": "",
+    "clue1": "It is a largest Internet-based retailer in the world by total sales and market capitalization.",
+    "clue2": "It has Powerhouse in cloud computing operations.",
+    "description": "On 5 July 1994, Jeff Bezos founded Amazon.com, Inc. often referred to as simply Amazon, is an American electronic commerce and cloud computing company with headquarters in Seattle, Washington. The slogan You shop, Amazon gives.",
+    "slogan": "'You Shop, Amazon Gives",
+    "owner": "Jeff Bezos"
+  },
+  { 
+    "id" : "4",
+    "questionIMG": "4.png", 
+    "solutionIMG":"4_4.png", 
+    "answer": "Budweiser",
+    "answer2": "",
+    "clue1": "Its ultra-light flavor is what makes it beautiful.",
+    "clue2": "This is one of the best selling beers in the U.S.",
+    "description": "The founder of Budweiser was a German named Adolphus Busch and he form this company in 2004. Budweiser beer is a medium-bodied, American-style lager beer. The king of the beer is the slogan of Budweiser.'",
+    "slogan": "'The king of beers.'",
+    "owner": "AB InBev"
+  },
+  { 
+    "id" : "5",
+    "questionIMG": "5.png", 
+    "solutionIMG":"5_5.png", 
+    "answer": "Gmail",
+    "answer2": "",
+    "clue1": "The first app on the Google Play Store to hit one billion installations on Android devices.",
+    "clue2": "It was the most appealing features has been that it is Web-based, so users can access their e-mail from a computer.",
+    "description": "Gmail was created by Paul Buchheit. Gmail is a free email service provided by Google. The famous gmail slogan is Don't be evil.",
+    "slogan": "'Don't be evil.'",
+    "owner": "Paul Buchheit"
+  },
+  { 
+    "id" : "6",
+    "questionIMG": "6.png", 
+    "solutionIMG":"6_6.png", 
+    "answer": "Kappa",
+    "answer2": "",
+    "clue1": " It is an Italian sportswear brand founded in Turin, Piedmont, Italy",
+    "clue2": "It is a leading sportswear brand worn by the world's biggest teams and brightest stars.",
+    "description": "Kappa is an Italian sportswear brand founded in Turin, Piedmont, Italy in 1978 by Marco Boglione, as a sportswear branch of the already existing Robe di Kappa.The slogan is Stay Sporty",
+    "slogan": "Stay sporty",
+    "owner": "Marco Boglione"
+  },
+  { 
+    "id" : "7",
+    "questionIMG": "7.png", 
+    "solutionIMG":"7_7.png", 
+    "answer": "Flipkart",
+    "answer2": "",
+    "clue1": "It is an Online Shopping App.",
+    "clue2": "It is an Indian e-commerce company that is one of the country's most successful startups to date.",
+    "description": "Flipkart is an e-commerce company founded in 2007 by Sachin Bansal and Binny Bansal. They worked for Amazon.com, and left to create their new company. The slgan tagline is If it trendy, it's on flipkart.",
+    "slogan": "If it's trendy, it's on Flipkart ·",
+    "owner": "Sachin Bansal Binny Bansal"
+  },
+  { 
+    "id" : "8",
+    "questionIMG": "8.png", 
+    "solutionIMG":"8_8.png", 
+    "answer": "Ferrari",
+    "answer2": "",
+    "clue1": "The company has been noted for its continued participation in racing.",
+    "clue2": "This company cars is famous for incredible speeds, sophisticated luxury, dignified ostentatiousness, and for being the creators of the most expensive car ever sold.'",
+    "description": "Ferrari S.p.A. is an Italian luxury sports car manufacturer based in Maranello, Italy. Founded by Enzo Ferrari in 1939 out of the Alfa Romeo race division as Auto Avio Costruzioni, the company built its first car in 1940, and produced its first Ferrari-badged car in 1947. The brand slogan is Only those who dare truly live",
+    "slogan": "Only those who dare truly live",
+    "owner": "Enzo Ferrari"
+  },
+  { 
+    "id" : "9",
+    "questionIMG": "9.png", 
+    "solutionIMG":"9_9.png", 
+    "answer": "ICICI",
+    "answer2": "Bank",
+    "clue1": "The bank has offers a banking products and financial services for corporate and retail customers through specialized subsidiaries in the areas of investment banking, life, non-life insurance, venture capital and asset management.",
+    "clue2": "It is an Indian multinational banking and financial services company.",
+    "description": "The Industrial Credit and Investment Corporation of India (ICICI) was established on 5 January 1955 and Sir Arcot Ramasamy Mudaliar was elected as the first Chairman of ICICI Ltd. The slogan itself it's reveal We are there for you.",
+    "slogan": "We are there for you.",
+    "owner": "Sir Arcot Ramasamy Mudaliar ( first chairman)"
+  },
+  { 
+    "id" : "10",
+    "questionIMG": "10.png", 
+    "solutionIMG":"10_10.png", 
+    "answer": "Sony",
+    "answer2": "",
+    "clue1": "It is an American diversified multinational mass media and entertainment studio.",
+    "clue2": "It makes and distributes motion pictures, television productions and media networks under its Pictures branding.",
+    "description": "Sony founders Akio Morita and Masaru Ibuka was founded in 7 May 1946; 75 years ago. Sony Corporation is a Japanese multinational conglomerate corporation headquartered in Kōnan, Minato, Tokyo. Its diversified business includes consumer and professional electronics, gaming, entertainment, and financial services. the company's slogan It’s Sony.",
+    "slogan": "It’s Sony",
+    "owner": "Akio Morita & Masaru Ibuka."
+  },
+  { 
+    "id" : "11",
+    "questionIMG": "11.png", 
+    "solutionIMG":"11_11.png", 
+    "answer": "Hyundai",
+    "answer2": "",
+    "clue1": "It is known for making cheap cars",
+    "clue2": "Apart from Maruti Suzuki, only this company has garnered a reputation for reliable and efficient engines.",
+    "description": "Hyundai Motor Company was founded in 1967 by Chung Ju-yung. Hyundai has developed very reliable engines that power just about every car in their lineup. The slogan is New Thinking, New Possibilities.",
+    "slogan": "New Thinking, New Possibilities.",
+    "owner": "Chung Ju-yung"
+  },
+  { 
+    "id" : "12",
+    "questionIMG": "12.png", 
+    "solutionIMG":"12_12.png", 
+    "answer": "Cartoon",
+    "answer2": "Network",
+    "clue1": "The fifth most popular cable channel in the United States.",
+    "clue2": "It is a kid's channel delivering the best comedy and adventure shows.",
+    "description": "Betty Susan Cohen, the founder and original president of Cartoon Network from 1992 to 2001, the CEO of Lifetime Entertainment Services",
+    "slogan": "'Think Different — But Not Too Different'",
+    "owner": "Steve Jobs was a charismatic pioneer of the personal computer era."
+  },
+  { 
+    "id" : "13",
+    "questionIMG": "13.png", 
+    "solutionIMG":"13_13.png", 
+    "answer": "Bacardi",
+    "answer2": "",
+    "clue1": "This brand is the most iconic rum in the Americas",
+    "clue2": "It is one of the largest privately held, family-owned spirits companies of rum in the world.",
+    "description": "Don Facundo Bacardí Massó Founded Bacardi in Cuba in 1862 This Company Is Originally known for its eponymous Bacardi white rum, it now has a portfolio of more than 200 brands and labels. The slogan is You in?",
+    "slogan": "",
+    "owner": "Don Facundo Bacardí Massó"
+  },
+  { 
+    "id" : "14",
+    "questionIMG": "14.png", 
+    "solutionIMG":"14_14.png", 
+    "answer": "Adidas",
+    "answer2": "",
+    "clue1": "The company designs and manufactures shoes, clothing and accessories.",
+    "clue2": "It has largest sportswear manufacturer in Europe, and the second largest in the world, after Nike.",
+    "description": "Adolf Dassler founded Adidas in 1949. Adidas AG is a multinational corporation, and headquartered in Herzogenaurach, Germany. The brand slogan is Impossible is nothing'",
+    "slogan": "Impossible is nothing",
+    "owner": "Adolf Dassler"
+  },
+  { 
+    "id" : "15",
+    "questionIMG": "15.png", 
+    "solutionIMG":"15_15.png", 
+    "answer": "Ford",
+    "answer2": "",
+    "clue1": "It is a legendary car company.",
+    "clue2": "The best known as the first auto manufacturer to automate production with an assembly line, pay workers a so-called fair daily wage.",
+    "description": "It was founded by Henry Ford and incorporated on June 16, 1903.Ford may best be defined in the modern age as the first of the domestic brands to start producing cars with smaller turbocharged engines. The slogan is Go Further",
+    "slogan": "Go Further",
+    "owner": "Henry Ford"
+  },
+  { 
+    "id" : "16",
+    "questionIMG": "16.png", 
+    "solutionIMG":"16_16.png", 
+    "answer": "Facebook",
+    "answer2": "",
+    "clue1": "A famous social media. It is Known as Meta.",
+    "clue2": "a website which allows users, who sign-up for free profiles, to connect with friends, work colleagues or even unknown people, online.",
+    "description": "Mark Zuckerberg is a CEO o f facebook. Facebook is a social networking site that makes it easy for you to connect and share with family and friends online. The slogan is It's quick and easy",
+    "slogan": "It's quick and easy",
+    "owner": "CEO: Mark Zuckerberg"
+  },
+  { 
+    "id" : "17",
+    "questionIMG": "17.png", 
+    "solutionIMG":"17_17.png", 
+    "answer": "Adobe",
+    "answer2": "",
+    "clue1": "It ia an American multinational computer software company.",
+    "clue2": "It is specialized in software for the creation and publication of a wide range of content, including graphics, photography, illustration, animation, multimedia/video, motion pictures and print.",
+    "description": "Adobe was founded in December 1982 by John Warnock and Charles Geschke. Adobe Inc., originally called Adobe Systems Incorporated, is an American multinational computer software company. The slogan is Simplicity at work, Better by Adobe.",
+    "slogan": "Simplicity at work, Better by Adobe.",
+    "owner": "John Warnock, Charles Geschke"
+  },
+  { 
+    "id" : "18",
+    "questionIMG": "18.png", 
+    "solutionIMG":"18_18.png", 
+    "answer": "Canon",
+    "answer2": "",
+    "clue1": "It is known for pioneering innovative imaging products.",
+    "clue2": "One of the world's largest manufacturers of cameras, copiers, and printers.",
+    "description": "Canon Inc is founded by Takeshi MitaraiGoro YoshidaSaburo UchidaTakeo Maeda in 1937. Canon Inc. is a Japanese multinational corporation specialized in the manufacture of imaging and optical products. The slogan is Delighting You Always",
+    "slogan": "Delighting You Always",
+    "owner": "Takeshi MitaraiGoro YoshidaSaburo UchidaTakeo Maeda"
+  },
+  { 
+    "id" : "19",
+    "questionIMG": "19.png", 
+    "solutionIMG":"19_19.png", 
+    "answer": "Rolex",
+    "answer2": "",
+    "clue1": "It is a British-founded Swiss watch designer and manufacturer based in Geneva, Switzerland.",
+    "clue2": "It is the most recognizable luxury watch brand.",
+    "description": "Rolex SA is a British-founded Swiss watch designer and manufacturer based in Geneva, Switzerland. Founded in 1905 as Wilsdorf and Davis by Hans Wilsdorf and Alfred Davis in London, England, the company registered the word ‘Rolex’ as the brand name of its watches in 1908, and it became Rolex Watch Co. Ltd. in 1915. The slogan is Every Rolex tells a story",
+    "slogan": "Every Rolex tells a story",
+    "owner": "Hans Wilsdorf"
+  },
+  { 
+    "id" : "20",
+    "questionIMG": "20.png", 
+    "solutionIMG":"20_20.png", 
+    "answer": "Pringles",
+    "answer2": "",
+    "clue1": "It is an American Brand Of Snack.",
+    "clue2": "A tubular paperboard can with a foil-lined interior, the cans also contained a removable ruffled paper liner which held the chips in place.",
+    "description": "Fredric John Baur Is founder of the Pringles. The product was originally known as Pringles Newfangled Potato Chips, but other snack manufacturers objected, saying Pringles failed to meet the definition. The slogan is Once you pop, you can’t stop!",
+    "slogan": "Once you pop, you can’t stop!",
+    "owner": "Fredric John Baur"
+  }
+
+]
+
+  
