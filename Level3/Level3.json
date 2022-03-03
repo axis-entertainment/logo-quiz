@@ -1,0 +1,248 @@
+﻿[
+	{
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png", 
+    "solutionIMG":"1_1.png", 
+    "answer": "Skoda",
+    "answer2": "",
+    "clue1": "One of the five oldest companies producing cars.",
+    "clue2": "It's known for its 2.0-litre turbocharged petrol engine which is known it one of the most powerful at the time it was launched.",
+    "description": "In 1925, Václav Laurin and Václav Klement founded skoda Auto a.s. Škoda Auto, more commonly known as Škoda, is a Czech automobile manufacturer founded in 1895 as Laurin & Klement. The slogan is Simple Clever",
+    "slogan": "Simply Clever",
+    "owner": "Václav Laurin and Václav Klement."
+  },
+  { 
+    "id" : "2",
+    "questionIMG": "2.png", 
+    "solutionIMG":"2_2.png", 
+    "answer": "Smirnoff",
+    "answer2": "",
+    "clue1": "The brand claims to be the world's most popular vodka",
+    "clue2": "Smirnoff Vodka should be almost anywhere you look.",
+    "description": "The Smirnoff brand began with a vodka distillery founded in Moscow by Pyotr Arsenievich Smirnov (1831–1898). ... Smirnoff products include vodka, flavoured vodka, and malt beverages. The slogan Only the best for everyone.",
+    "slogan": "Only the best for everyone.",
+    "owner": "Pyotr Arsenyevitch Smirnov"
+  },
+  { 
+    "id" : "3",
+    "questionIMG": "3.png", 
+    "solutionIMG":"3_3.png", 
+    "answer": "Sony",
+    "answer2": "",
+    "clue1": "It is a major technology company.",
+    "clue2": "Sony Corporation is the company responsible for the Sony Group's Electronics Products and Solutions business (since April 2021).",
+    "description": "Sony began in the wake of World War II. In 1946, Masaru Ibuka started an electronics shop in Shirokiya, a department store building in the Nihonbashi area of Tokyo.Their former slogans is Be Moved",
+    "slogan": "Be Moved",
+    "owner": "Masaru Ibuka, Akio Morita"
+  },
+  { 
+    "id" : "4",
+    "questionIMG": "4.png", 
+    "solutionIMG":"4_4.png", 
+    "answer": "Tesla",
+    "answer2": "",
+    "clue1": "It is an American electric vehicle and clean energy company based in Palo Alto, California.",
+    "clue2": "It's ranked as the world’s best-selling plug-in and battery electric passenger car manufacturer.",
+    "description": "Founded in July 2003 by Martin Eberhard and Marc Tarpenning as Tesla Motors, the company's name is a tribute to inventor and electrical engineer Nikola Tesla. since 2008, Elon Musk is a CEO of the tesla company. The slogan is To accelerate the advent of sustainable transport",
+    "slogan": "To accelerate the advent of sustainable transport",
+    "owner": "Martin Eberhard and Marc Tarpenning"
+  },
+  { 
+    "id" : "5",
+    "questionIMG": "5.png", 
+    "solutionIMG":"5_5.png", 
+    "answer": "Bajaj",
+    "answer2": "",
+    "clue1": "The company has involvement in various industries that include automobiles, home appliances, lighting, iron and steel, insurance, travel and finance.",
+    "clue2": "It is an Indian multinational two-wheeler and three-wheeler manufacturing company",
+    "description": "Bajaj Auto Ltd was founded by by Jamnalal Bajaj in Rajasthan in 1945 as an automotive sales company, Bajaj is today the third largest manufacturer of motorcycles and the largest manufacturer of three wheelers in the world. The slogan is The World's Favourite Indian",
+    "slogan": "The World's Favourite Indian",
+    "owner": "Jamnalal Bajaj"
+  },
+  { 
+    "id" : "6",
+    "questionIMG": "6.png", 
+    "solutionIMG":"6_6.png", 
+    "answer": "Britannia",
+    "answer2": "",
+    "clue1": "It is Best known for its biscuit products.",
+    "clue2": "Indian company specialised in food industry, part of the Wadia Group headed by Nusli Wadia.",
+    "description": "Britannia Industries Limited is Founded in 1892 by NusliWadia. and headquartered in Kolkata, it is one of India's oldest existing companies and best known for its biscuit products. The slogan Exciting goodness",
+    "slogan": "Exciting goodness",
+    "owner": "Nusli Wadia."
+  },
+  { 
+    "id" : "7",
+    "questionIMG": "7.png", 
+    "solutionIMG":"7_7.png", 
+    "answer": "Brooks",
+    "answer2": "",
+    "clue1": "It is a small yet well-recognized athletic footwear and apparel manufacturer.",
+    "clue2": "It is known for its running shoes, which ranked as one of the top three brands in the United States during the late 1970s.",
+    "description": "John Brooks, founded in 1914, originally manufactured shoes for a broad range of sports. Brooks Sports, Inc., also known as Brooks Running, is an American sports equipment company that designs and markets high-performance men's and women's … the slogan is Brooks Run Happy Promise",
+    "slogan": "Brooks Run Happy Promise",
+    "owner": "John Brooks Goldenberg"
+  },
+  { 
+    "id" : "8",
+    "questionIMG": "8.png", 
+    "solutionIMG":"8_8.png", 
+    "answer": "Burberry",
+    "answer2": "",
+    "clue1": "It is a British luxury fashion house headquartered in London, England.",
+    "clue2": "It's Best-known for its trench coats, signature plaids and heritage prints, It has also made waves in the beauty industry.",
+    "description": "Thomas Burberry founded burberyy in 1970. The company has now grown to become one of the most valuable luxury brands worldwide",
+    "slogan": "Prosum",
+    "owner": "Thomas Burberry"
+  },
+  { 
+    "id" : "9",
+    "questionIMG": "9.png", 
+    "solutionIMG":"9_9.png", 
+    "answer": "Little",
+    "answer2": "Caesars",
+    "clue1": "It is an American multi-national pizza chain.",
+    "clue2": "The company is famous for its advertising catchphrase Pizza! Pizza!, which was introduced in 1979.",
+    "description": "Little Caesars Pizza was founded on May 8, 1959, by Mike Ilitch and his wife Marian Ilitch. The first Little Caesar's franchise location opened in 1962 in Warren, Michigan, and at the time was still called Little Caesar's Pizza Treat. The slogan is Pizza! Pizza!",
+    "slogan": "Pizza! Pizza!",
+    "owner": "Mike & Marian Ilitch"
+  },
+  { 
+    "id" : "10",
+    "questionIMG": "10.png", 
+    "solutionIMG":"10_10.png", 
+    "answer": "Cisco",
+    "answer2": "",
+    "clue1": "It is an American Technology Company.",
+    "clue2": "It is best known for its computer networking products.",
+    "description": "Cisco Systems was founded in December 1984 by Leonard Bosack and Sandy Lerner. Cisco provides IT products and services across five major technology areas: Networking (including Ethernet, optical, wireless and mobility), Security, Collaboration (including voice, video, and data), Data Center, and the Internet of Things. The slogan is Bridge to Possible",
+    "slogan": "Bridge to Possible",
+    "owner": "Sandy Lerner, Leonard Bosack."
+  },
+  { 
+    "id" : "11",
+    "questionIMG": "11.png", 
+    "solutionIMG":"11_11.png", 
+    "answer": "Danone",
+    "answer2": "",
+    "clue1": "This company is one of the largest dairy food and water producers in the world.",
+    "clue2": "Danone provides nutrition products for a human in the form of supplements for daily use",
+    "description": "Danone was founded by Isaac Carasso, in 1919. Danone S.A. is a multinational food-products corporation based in Paris and founded in Barcelona, Spain. The slogan is One Planet, One Health.",
+    "slogan": "One Planet, One Health.",
+    "owner": "Isaac Carasso"
+  },
+  { 
+    "id" : "12",
+    "questionIMG": "12.png", 
+    "solutionIMG":"12_12.png", 
+    "answer": "Dodge",
+    "answer2": "",
+    "clue1": "Motor company which has changed from muscle cars to family cars.",
+    "clue2": "It is an American brand of automobiles.",
+    "description": "Horace and John Dodge founded the Dodge Brothers Company in Detroit in 1900, and quickly found work manufacturing precision engine and chassis components for the city's growing number of automobile firms. The slogan Domestic. Not Domesticated.",
+    "slogan": "Domestic. Not Domesticated.",
+    "owner": "Horace Elgin Dodge and John Francis Dodge"
+  },
+  { 
+    "id" : "13",
+    "questionIMG": "13.png", 
+    "solutionIMG":"13_13.png", 
+    "answer": "Dove",
+    "answer2": "",
+    "clue1": "One of the leading brands of Unilever globally",
+    "clue2": "It is an American personal care brand owned by the British multinational consumer goods company Unilever.",
+    "description": "Vincent Lamberti was granted the original patents related to the manufacturing of Dove in the 1950s, Dove started its life in 1957 in the US, with the revolutionary new beauty cleansing Bar. The slogan is All you need is Dove.",
+    "slogan": "All you need is Dove.",
+    "owner": "Vincent Lamberti"
+  },
+  { 
+    "id" : "14",
+    "questionIMG": "14.png", 
+    "solutionIMG":"14_14.png", 
+    "answer": "Dunkin ",
+    "answer2": "Donut",
+    "clue1": "It is one of the largest coffee shop and donut shop chains in the world",
+    "clue2": "It is an American multinational coffee and doughnut company",
+    "description": "Dunkin' Donuts LLC also known as Dunkin'. It was founded by William Rosenberg in Quincy, Massachusetts, in 1950. Dunkin' is the world's leading baked goods and coffee chain, serving more than 3 million customers each and every day. The slogan is America runs on Dunkin",
+    "slogan": "America runs on Dunkin",
+    "owner": "William Rosenberg"
+  },
+  { 
+    "id" : "15",
+    "questionIMG": "15.png", 
+    "solutionIMG":"15_15.png", 
+    "answer": "H&M",
+    "answer2": "",
+    "clue1": "It is known for its fast-fashion clothing for men, women, teenagers, and children.",
+    "clue2": "Hennes & Mauritz is a Swedish multinational clothing company headquartered in Stockholm.",
+    "description": "Hennes & Mauritz AB (H&M) is a Swedish multinational retail-clothing company. Founded in 1947, H&M's design team creates sustainable fashion following a low-cost principle. The slogan is Steps Away From Fabulous Fashion.",
+    "slogan": "Steps Away From Fabulous Fashion.",
+    "owner": "Erling Persson"
+  },
+  { 
+    "id" : "16",
+    "questionIMG": "16.png", 
+    "solutionIMG":"16_16.png", 
+    "answer": "HDFC",
+    "answer2": "Bank",
+    "clue1": "One of the India's leading private banks.",
+    "clue2": "The first bank receive approval from the reserve bank of india to set up private sector bank",
+    "description": "HDFC Bank Limited is an Indian banking and financial services company headquartered in Mumbai. HDFC Bank merged with Times Bank in February 2000. This was the first merger of two private banks in the New Generation private sector banks category. HDFC bank provides a number of products and services . The Hdfc bank came up with the slogan We Understand Your World.",
+    "slogan": "We Understand Your World.",
+    "owner": "Hasmukhbhai Parekh"
+  },
+  { 
+    "id" : "17",
+    "questionIMG": "17.png", 
+    "solutionIMG":"17_17.png", 
+    "answer": "Hermes",
+    "answer2": "",
+    "clue1": "This is a French luxury design house established in 1837",
+    "clue2": "It specializes in leather goods, lifestyle accessories, home furnishings, perfumery, jewelry, watches and ready-to-wear.",
+    "description": "Hermès International S.A. is established in 1837 and the founder Thierry Hermès. Its logo, since the 1950s, is of a Duc carriage with horse. Nadège Vanhee-Cybulski is the current creative director",
+    "slogan": "The parcel people",
+    "owner": "Thierry Hermès"
+  },
+  { 
+    "id" : "18",
+    "questionIMG": "18.png", 
+    "solutionIMG":"18_18.png", 
+    "answer": "HSBC",
+    "answer2": "",
+    "clue1": "One of the world's largest banking and financial services organisations.",
+    "clue2": "It was formally incorporated as The Hongkong and Shanghai Banking Corporation",
+    "description": "Midland Bank was renamed HSBC Bank in June 1999, as part of the adoption of the HSBC brand throughout the Group. The slogan is Together We Thrive",
+    "slogan": "Together We Thrive",
+    "owner": "Thomas Sutherland"
+  },
+  { 
+    "id" : "19",
+    "questionIMG": "19.png", 
+    "solutionIMG":"19_19.png", 
+    "answer": "Lacoste",
+    "answer2": "",
+    "clue1": "This company Produces good quality clothing with good quality stitching.",
+    "clue2": "It is Officially known as La Chemise Lacoste./ the company's founder, was nicknamed the Crocodile.",
+    "description": "Lacoste S.A. is a French company, founded in 1933 by tennis player Rene Lacoste. It sells Clothing, Footwear, Sportswear, Eyewear, lLeather goods, Perfume, Towels & Watches. The slogan is LIfe is a beautiful sport.",
+    "slogan": "LIfe is a beautiful sport.",
+    "owner": "Rene Lactoste"
+  },
+{ 
+  "id" : "20",
+  "questionIMG": "20.png", 
+  "solutionIMG":"20_20.png", 
+  "answer": "LG",
+  "answer2": "",
+  "clue1": "It is one of the most formidable brands in consumer electronics, home appliances, IT hardware and mobile communications space.",
+  "clue2": "LG is becoming a faster and smarter global brand of the future.",
+  "description": "LG Corporation was established as Lak Hui Chemical Industrial Corp. in 1947 by Koo In-hwoi. LG Electronics was established in 1958 and has since led the way into the advance digital era. The slogan is Life is good",
+  "slogan": "Life's Good",
+  "owner": "Koo In-hwoi."
+}
+]
+
+  
