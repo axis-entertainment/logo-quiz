@@ -1,0 +1,249 @@
+﻿[
+	{
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png", 
+    "solutionIMG":"1_1.png", 
+    "answer": "Hulk",
+    "answer2": "",
+    "clue1": "The giant green rage monster, one of the strongest people in the Marvel Universe.",
+    "clue2": "It is a fictional superhero appearing in publications by the American publisher Marvel Comics. ",
+    "description": "The Hulk is a fictional superhero appearing in publications by the American publisher Marvel Comics. Created by writer Stan Lee and artist Jack Kirby, the character first appeared in the debut issue of The Incredible Hulk (May 1962). ",
+    "slogan": "Don't make me angry. You wouldn't like me when I'm angry",
+    "owner": "Writer Stan Lee"
+  },
+  { 
+    "id" : "2",
+    "questionIMG": "2.png", 
+    "solutionIMG":"2_2.png", 
+    "answer": "Fiat",
+    "answer2": "",
+    "clue1": "The largest automobile manufacturer in Italy.",
+    "clue2": " The brand name stands for Factory Italian Automotive Turin. ",
+    "description": "On 11 July 1899, Giovanni Agnelli was part of the group of founding members of FIAT, Fabbrica Italiana di Automobili Torino. The slogan is You are, we car.",
+    "slogan": "You are, we car.",
+    "owner": "Giovanni Agnelli"
+  },
+  { 
+    "id" : "3",
+    "questionIMG": "3.png", 
+    "solutionIMG":"3_3.png", 
+    "answer": "Papa",
+    "answer2": "John's",
+    "clue1": "It the world's largest pizza chain in the number of locations.",
+    "clue2": "It's HOLDS THE WORLD RECORD FOR PIZZA-TOSSING",
+    "description": "The Papa John's restaurant was founded in 1984 when Papa John Schnatter knocked out a broom closet in the back of his father's tavern, Mick's Lounge, in Jeffersonville, Indiana. The slogan is Better Ingredients. Better Pizza.",
+    "slogan": "Better Ingredients. Better Pizza",
+    "owner": "John Schnatter"
+  },
+  { 
+    "id" : "4",
+    "questionIMG": "4.png", 
+    "solutionIMG":"4_4.png", 
+    "answer": "Batman ",
+    "answer2": "",
+    "clue1": "A Secret identity is bruce wayne, an american billionaire and philanthropist.",
+    "clue2": "A superhero who appears in American comic books",
+    "description": "Batman is a superhero who appears in American comic books published by DC Comics. The character was created by artist Bob Kane and writer Bill Finger, and debuted in the 27th issue of the comic book Detective Comics on March 30, 1939. ",
+    "slogan": "Batman has no limits,This city needs me",
+    "owner": "DC Comics (Warner Bros. Entertainment)"
+  },
+  { 
+    "id" : "5",
+    "questionIMG": "5.png", 
+    "solutionIMG":"5_5.png", 
+    "answer": "Nissan",
+    "answer2": "",
+    "clue1": "It has a history of producing legendary 'Z' cars",
+    "clue2": "It is a Japanese multinational automobile manufacturer headquartered in Nishi-ku, Yokohama.",
+    "description": "Masujiro Hashimoto, Kenjiro Den, Rokuro  Aoyama, Meitaro Takeuchi, Yoshisuke Aikawa, William R. Gorham was a founder of the Nissan motor  Corporation. Nissan motor cooporation is a Japanese multinational automobile manufacturer headquartered in Nishi-ku, Yokohama, Japan. The slogan is It's Your Turn to Drive.",
+    "slogan": "It's Your Turn to Drive.",
+    "owner": "Masujiro Hashimoto"
+  },
+  { 
+    "id" : "6",
+    "questionIMG": "6.png", 
+    "solutionIMG":"6_6.png", 
+    "answer": "Pepsi",
+    "answer2": "",
+    "clue1": "It is a carbonated soft drink & it's simmilar to coca cola.",
+    "clue2": "This soft drink company is also play the big sponsorer in cricket leagues and sports.",
+    "description": "Pepsi is a carbonated soft drink manufactured by PepsiCo. Originally created and developed in 1893 by Caleb Bradham and introduced as Brad's Drink. The slogan is That's What I Like.",
+    "slogan": "That's What I Like",
+    "owner": "Caleb Bradham"
+  },
+  { 
+    "id" : "7",
+    "questionIMG": "7.png", 
+    "solutionIMG":"7_7.png", 
+    "answer": "Noodles and",
+    "answer2": "Company",
+    "clue1": "This brand is Known for its pasta, salads and soups. ",
+    "clue2": "It is an American fast-casual restaurant ",
+    "description": " Noodles & Company was founded in 1995 by Aaron Kennedy and is headquartered in Broomfield, Colorado. Noodles & Company is an American fast-casual restaurant that offers international and American noodle dishes and pasta in addition to soups and salads. The slogan is Your World Kitchen",
+    "slogan": "Your World Kitchen",
+    "owner": "Aaron Kennedy"
+  },
+  { 
+    "id" : "8",
+    "questionIMG": "8.png", 
+    "solutionIMG":"8_8.png", 
+    "answer": "Subaru",
+    "answer2": "",
+    "clue1": "The company builds popular models like the Forester and Outback crossover SUVs, cars like the Legacy and Impreza.",
+    "clue2": "The first automobile brand to use a Japanese word as its name.",
+    "description": "Subaru was founded in 1953 by Kenji Kita Chikuhei Nakajima. Subaru is a much smaller automaker with a limited product line and a reputation for building quirky all-wheel-drive cars for quirky people. The slogan is 'Driven by What's Inside'",
+    "slogan": "Driven by What's Inside",
+    "owner": "Kenji Kita"
+  },
+  { 
+    "id" : "9",
+    "questionIMG": "9.png", 
+    "solutionIMG":"9_9.png", 
+    "answer": "Cadbury",
+    "answer2": "",
+    "clue1": "The most popular chocolate of this brand is Dairy Milk.",
+    "clue2": "This chocolate is one of the best-known British brands",
+    "description": "Cadbury was established in Birmingham, England in 1824, by John Cadbury. Cadbury, formerly Cadbury's and Cadbury Schweppes, is a British multinational confectionery company fully owned by Mondelez International (originally Kraft Foods) since 2010. The slogan is 'Tastes like this feels'",
+    "slogan": "Tastes like this feels",
+    "owner": "John Cadbury"
+  },
+  { 
+    "id" : "10",
+    "questionIMG": "10.png", 
+    "solutionIMG":"10_10.png", 
+    "answer": "BMW",
+    "answer2": "",
+    "clue1": "This brand is the best-known German car manufacturer.",
+    "clue2": "Bayerische Motoren Werke AG, is a German luxury vehicle, motorcycle, and engine manufacturing company founded in 1916.",
+    "description": "Bayerische Motoren Werke AG, commonly referred to as BMW, is a German multinational corporate manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany. The slogan is Beyond rational.",
+    "slogan": "Beyond rational.",
+    "owner": "Karl Friedrich Rapp"
+  },
+  { 
+    "id" : "11",
+    "questionIMG": "11.png", 
+    "solutionIMG":"11_11.png", 
+    "answer": "Costa",
+    "answer2": "Coffee",
+    "clue1": "It is a second largest coffeehouse chain in the world, and the largest in the UK.",
+    "clue2": " It is a British coffeehouse chain with headquarters in Dunstable, England. ",
+    "description": "Costa Coffee is a British coffeehouse chain with headquarters in Dunstable, England. Costa Coffee was founded in London in 1971 by Bruno and Sergio Costa. The slogan is Its all about the coffee.",
+    "slogan": "Its all about the coffee.",
+    "owner": "Bruno and Sergio Costa"
+  },
+  { 
+    "id" : "12",
+    "questionIMG": "12.png", 
+    "solutionIMG":"12_12.png", 
+    "answer": "Yahoo",
+    "answer2": "",
+    "clue1": "An American web services provider.",
+    "clue2": "It provides a web portal, search engine including mail, news, sport and its advertising platform, native. ",
+    "description": "Yahoo was established by Jerry Yang and David Filo in January 1994 and was one of the pioneers of the early Internet era in the 1990s Yahoo  is an American web services provider. It is headquartered in Sunnyvale, California and operated by the namesake company Yahoo! Inc.",
+    "slogan": "",
+    "owner": "Jerry Yang and David Filo"
+  },
+  { 
+    "id" : "13",
+    "questionIMG": "13.png", 
+    "solutionIMG":"13_13.png", 
+    "answer": "Ferraro",
+    "answer2": " Rocher",
+    "clue1": " It is the third biggest chocolate producer and confectionery company in the world.",
+    "clue2": "A chocolate and hazelnut product produced by the Italian confectionery company",
+    "description": "It was founded in 1946 in Alba, Piedmont, Italy, by Pietro Ferrero, a confectioner and small-time pastry maker. Ferrero SpA is an Italian manufacturer of branded chocolate and confectionery products and it is the third biggest chocolate producer and confectionery company in the world. The slogan is Share something special",
+    "slogan": "Share something special",
+    "owner": "Pietro Ferrero"
+  },
+  { 
+    "id" : "14",
+    "questionIMG": "14.png", 
+    "solutionIMG":"14_14.png", 
+    "answer": "Shoprite ",
+    "answer2": " ",
+    "clue1": "This brand has been the largest food retailer.",
+    "clue2": " It is a retailers' cooperative of supermarkets with stores in six states ",
+    "description": "ShopRite originated in 1946, by Christo Wiese. The Shoprite Group (JSE: SHP), is Africa's largest supermarket retailer, operating more than 2,892 stores across Africa. The slogan is Why Pay More? Shop at a ShopRite store!",
+    "slogan": "Why Pay More? Shop at a ShopRite store!",
+    "owner": "Christo Wiese"
+  },
+  { 
+    "id" : "15",
+    "questionIMG": "15.png", 
+    "solutionIMG":"15_15.png", 
+    "answer": "Pizza",
+    "answer2": "Hut",
+    "clue1": "It is an American restaurant chain and international franchise of pizza",
+    "clue2": " The company is known for its Italian-American cuisine menu, including pizza and pasta.",
+    "description": "Pizza Hut is an American multinational restaurant chain and international franchise founded in 1958 in Wichita, Kansas by Dan and Frank Carney. The slogan is No one outpizzas the hut.",
+    "slogan": "No one outpizzas the hut.",
+    "owner": "Dan and Frank Carney"
+  },
+  { 
+    "id" : "16",
+    "questionIMG": "16.png", 
+    "solutionIMG":"16_16.png", 
+    "answer": "Mini",
+    "answer2": "Cooper",
+    "clue1": "It's basically a small economy car that is known for its speed, extreme drifting, and unique look.",
+    "clue2": "It is Owned by German brand BMW since 2000.",
+    "description": "Mini is a British brand founded in 1959. This distinctive two-door car was designed for BMC by Sir Alec Issigonis. The slogan is Is it love?",
+    "slogan": "Is it love?",
+    "owner": "Englishman Alec Issigonis."
+  },
+  { 
+    "id" : "17",
+    "questionIMG": "17.png", 
+    "solutionIMG":"17_17.png", 
+    "answer": "Kroger",
+    "answer2": "",
+    "clue1": "It is a largest retail grocer in the United States.",
+    "clue2": "Mostly known for its grocery and superstores, which operate across 35 states of America.",
+    "description": "The Kroger Company, or simply Kroger, is an American retail company founded by Bernard Kroger in 1883 in Cincinnati, Ohio. The slogan is Fresh for evryone.",
+    "slogan": "Fresh for evryone",
+    "owner": "Bernard Kroger"
+  },
+  { 
+    "id" : "18",
+    "questionIMG": "18.png", 
+    "solutionIMG":"18_18.png", 
+    "answer": "Hugo",
+    "answer2": "Bose",
+    "clue1": "The company produced shirts, jackets, work clothing, sportswear and raincoats and perfumes",
+    "clue2": "One of the largest German clothing companies",
+    "description": "In 1923, Hugo Boss founded his own clothing company in Metzingen, Germany, where it still operates. Hugo Boss AG, often styled as BOSS, is a German luxury fashion house headquartered in Metzingen, Baden-Wurttemberg. Hugo Boss is one of the largest German clothing companies",
+    "slogan": "",
+    "owner": "Hugo bose"
+  },
+  { 
+    "id" : "19",
+    "questionIMG": "19.png", 
+    "solutionIMG":"19_19.png", 
+    "answer": "Android ",
+    "answer2": "",
+    "clue1": "It is use as a Operating system in smartphone",
+    "clue2": "This operating system was developed by Google (GOOGL​) for use in all of its touchscreen devices, tablets, and cell phones.",
+    "description": "Android Inc. was founded in Palo Alto, California, in October 2003 by Andy Rubin, Rich Miner, Nick Sears, and Chris White. Android is a mobile operating system based on a modified version of the Linux kernel and other open source software, designed primarily for touchscreen mobile devices such as smartphones and tablets. The slogan is 'Be Together, Not The Same'",
+    "slogan": "Be Together, Not The Same",
+    "owner": "Andy Rubin, Rich Miner, Nick Sears, and Chris White."
+  },
+  { 
+    "id" : "20",
+    "questionIMG": "20.png", 
+    "solutionIMG":"20_20.png", 
+    "answer": "Taco",
+    "answer2": "Bell",
+    "clue1": "It is a subsidiary of Yum! Brands",
+    "clue2": "It is an American-based chain of fast food restaurants originating in Irvine, California in 1962, by founder Glen Bell. ",
+    "description": "Taco Bell is an American-based chain of fast food restaurants originating in Irvine, California in 1962, by founder Glen Bell. The slogan is 'Live Mas'.",
+    "slogan": "Live mas",
+    "owner": "Glen Bell"
+  }
+
+]
+
+  
