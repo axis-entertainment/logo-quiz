@@ -1,0 +1,249 @@
+﻿[
+	{
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png", 
+    "solutionIMG":"1_1.png", 
+    "answer": "Internet",
+    "answer2": "Explorer",
+    "clue1": "This browser is a free web browser, ",
+    "clue2": "It is a free graphical browser maintained by Microsoft for legacy enterprise uses.",
+    "description": "The Internet Explorer project was started in the summer of 1994 by Thomas Reardon and Initial release on 1995. Internet Explorer (IE), World Wide Web (WWW) browser and set of technologies created by Microsoft Corporation, a leading American computer software company. The slogan is Have you had a break today?",
+    "slogan": "Have you had a break today?",
+    "owner": "Thomas Reardon"
+  },
+  { 
+    "id" : "2",
+    "questionIMG": "2.png", 
+    "solutionIMG":"2_2.png", 
+    "answer": "Subway",
+    "answer2": "",
+    "clue1": "It is mainly known for its sandwiches and salads, and the most popular item is Turkey Breast.",
+    "clue2": "This Brand is the world's largest submarine sandwich chain.",
+    "description": "Two people, Fred De Luca and Peter Buck in the year 1965, founded this Sunway restaurant. Subway is an American multi-national fast food restaurant franchise that primarily sells submarine sandwiches (subs), wraps, salads and beverages. The slogan is Eat Fresh.",
+    "slogan": "Eat Fresh",
+    "owner": "Fred DeLuca"
+  },
+  { 
+    "id" : "3",
+    "questionIMG": "3.png", 
+    "solutionIMG":"3_3.png", 
+    "answer": "Toyota",
+    "answer2": "",
+    "clue1": "It is a Japanese automotive manufacturer.",
+    "clue2": "It is the world's market leader in sales of hybrid electric vehicles",
+    "description": "The company was founded by Kiichiro Toyoda in 1937, as a spinoff from his father's company Toyota Industries to create automobiles. Toyota Motor Corporation is a Japanese automotive manufacturer headquartered in Toyota, Aichi, Japan. Toyota is the world's market leader in sales of hybrid electric vehicles.",
+    "slogan": "Let's Go Places",
+    "owner": "Kiichiro Toyoda"
+  },
+  { 
+    "id" : "4",
+    "questionIMG": "4.png", 
+    "solutionIMG":"4_4.png", 
+    "answer": "AOL",
+    "answer2": "",
+    "clue1": "The service traces its history to an online service known as PlayNET.",
+    "clue2": "It is an American web portal and online service provider based in New York City.",
+    "description": "AOL began in 1983, as a short-lived venture called Control Video Corporation (or CVC), founded by William von Meister. In January 1983, Steve Case was hired as a marketing consultant for Control Video on the recommendation of his brother, investment banker Dan Case. In May 1983, Jim Kimsey became a manufacturing consultant for Control Video and Marc Seriff as chief technology officer. The slogan is It's On. ",
+    "slogan": "It's On . . .",
+    "owner": "Marc Seriff, Steve Case, Jim Kimsey, William von Meister"
+  },
+  { 
+    "id" : "5",
+    "questionIMG": "5.png", 
+    "solutionIMG":"5_5.png", 
+    "answer": "Barbie",
+    "answer2": "",
+    "clue1": "It is a fashion doll manufactured by the American toy company",
+    "clue2": "The most popular fashion doll ever produced",
+    "description": "Barbie is a fashion doll manufactured by the American toy company Mattel, Inc. and launched in March 1959 and it is created by Ruth Handler. The slogan is We can do anything if we look like Barbie.",
+    "slogan": "We can do anything if we look like Barbie.",
+    "owner": "Ruth Handler"
+  },
+  { 
+    "id" : "6",
+    "questionIMG": "6.png", 
+    "solutionIMG":"6_6.png", 
+    "answer": "KFC",
+    "answer2": "",
+    "clue1": "It is the chain of fast food restaurants known for their fried chicken.",
+    "clue2": "One of the most iconic fast food brands known to man.",
+    "description": "KFC was founded by Colonel Harland Sanders, an entrepreneur who began selling fried chicken from his roadside restaurant in Corbin, Kentucky, during the Great Depression. Sanders identified the potential of the restaurant franchising concept, and the first Kentucky Fried Chicken franchise opened in Utah in 1952. The slogan is 'It's Finger Lickin'Good'.",
+    "slogan": "It's Finger Lickin'Good'",
+    "owner": "Colonel Harland Sanders"
+  },
+  { 
+    "id" : "7",
+    "questionIMG": "7.png", 
+    "solutionIMG":"7_7.png", 
+    "answer": "SpiderMan",
+    "answer2": "",
+    "clue1": "one of the most popular superheroe, with the nickname of 'web-slinger.'",
+    "clue2": "Marvel Comics superhero created by Stan Lee",
+    "description": "Spider-Man is a superhero appearing in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and artist Steve Ditko, he first appeared in the anthology comic book Amazing Fantasy 15 (August 1962) in the Silver Age of Comic Books. The slogan is With great power comes great responsibility.",
+    "slogan": "With great power comes great responsibility.",
+    "owner": "Writer Stan Lee"
+  },
+  { 
+    "id" : "8",
+    "questionIMG": "8.png", 
+    "solutionIMG":"8_8.png", 
+    "answer": "Carrefour",
+    "answer2": "",
+    "clue1": "It ia a French multinational retail corporation headquartered in Massy, France.",
+    "clue2": "The eighth-largest retailer in the world by revenue",
+    "description": "Carrefour was launched in the region in 1995 by UAE-based Majid Al Futtaim, which is the exclusive franchisee to operate Carrefour in over 30 countries. The slogan is The positive is back.",
+    "slogan": "The positive is back.",
+    "owner": "Marcel Fournier, Denis Defforey and Jacques Defforey"
+  },
+  { 
+    "id" : "9",
+    "questionIMG": "9.png", 
+    "solutionIMG":"9_9.png", 
+    "answer": "Tata",
+    "answer2": "",
+    "clue1": "This is an Indian multinational conglomerate headquartered in Mumbai.",
+    "clue2": "It's name stand for Time And Time Again.",
+    "description": "TATA is an Indian multinational conglomerate headquartered in Mumbai. Founded in 1868 by Jamshedji Tata.",
+    "slogan": "Integrity, Responsibility, Excellence, Pioneering, and Unity.",
+    "owner": "Jamsetji Tata"
+  },
+  { 
+    "id" : "10",
+    "questionIMG": "10.png", 
+    "solutionIMG":"10_10.png", 
+    "answer": "Instagram",
+    "answer2": "",
+    "clue1": "It is free social media platform for sharing photos and videos.",
+    "clue2": " This app allows users to share pictures and videos either publicly or privately.",
+    "description": "Instagram was created by Kevin Systrom and Mike Krieger, and launched in October 2010 as a free mobile app exclusively for the iOS operating system. The slogan is Capture and share the world's moment.",
+    "slogan": "Capture and share the world's moment",
+    "owner": "Kevin Systrom"
+  },
+  { 
+    "id" : "11",
+    "questionIMG": "11.png", 
+    "solutionIMG":"11_11.png", 
+    "answer": "Captain",
+    "answer2": "America",
+    "clue1": "This superhero is also known as Steve Rogers",
+    "clue2": "This super hero with SuperHuman powers of agility, strength, speed, endurance, and reaction time superior.",
+    "description": "Captain America is a superhero appearing in American comic books published by Marvel Comics. Created by cartoonists Joe Simon and Jack Kirby, As a World War II hero, Steve Rogers made Captain America a symbol of determination against hate. The slogan is Avengers Assemble!",
+    "slogan": "Avengers Assemble!",
+    "owner": "Joe Simon"
+  },
+  { 
+    "id" : "12",
+    "questionIMG": "12.png", 
+    "solutionIMG":"12_12.png", 
+    "answer": "Red",
+    "answer2": "Lobster",
+    "clue1": "The most popular dish of the restraunt is the Ultimate Feast.",
+    "clue2": "It is an American casual dining restaurant chain headquartered in Orlando, Florida. ",
+    "description": "The first Red Lobster restaurant was opened on January 18, 1968, in Lakeland, Florida, by entrepreneurs Bill Darden and Charley Woodsby. The slogan For the seafood lover in you.",
+    "slogan": "For the seafood lover in you,",
+    "owner": "Bill Darden; Charley Woodsby"
+  },
+  { 
+    "id" : "13",
+    "questionIMG": "13.png", 
+    "solutionIMG":"13_13.png", 
+    "answer": "Mtv",
+    "answer2": "",
+    "clue1": "The brand channel originally aired music videos and related programming as guided by television personalities known as video jockeys.",
+    "clue2": " It is an American cable channel that launched on August 1, 1981.",
+    "description": "MTV is an American cable channel that launched on August 1, 1981. Based in New York City, it serves as the flagship property of the MTV Entertainment Group, part of ViacomCBS Domestic Media Networks, a division of ViacomCBS. The slogan is You'll never look at music the same way again",
+    "slogan": "You'll never look at music the same way again",
+    "owner": "Viacom 18"
+  },
+  { 
+    "id" : "14",
+    "questionIMG": "14.png", 
+    "solutionIMG":"14_14.png", 
+    "answer": "Audi ",
+    "answer2": " ",
+    "clue1": "This is a German luxury vehicle brand which has four interlocating rings logo.",
+    "clue2": "It produces some of the world's highest quality vehicles, and its brand name stands for Auto Union Deutschland Ingolstadt. ",
+    "description": "August Horch was the founder of Audi in 1909. Audi AG is a German automotive manufacturer of luxury vehicles headquartered in Ingolstadt, Bavaria, Germany. The slogan is Vorsprung durch Technik ",
+    "slogan": "Vorsprung durch Technik",
+    "owner": "August Horch"
+  },
+  { 
+    "id" : "15",
+    "questionIMG": "15.png", 
+    "solutionIMG":"15_15.png", 
+    "answer": "Starbucks",
+    "answer2": "",
+    "clue1": "The largest coffeehouse chain in the world. Delicious, handcrafted beverages ",
+    "clue2": "It's one of the most successful companies in the world, not only in the coffee shop business.",
+    "description": "Starbucks Corporation is an American coffee company and coffeehouse chain. Starbucks was founded in Seattle, Washington, in 1971 by  by Jerry Baldwin, Zev Siegl, and Gordon Bowke. The slogan is Starbucks or nothing.",
+    "slogan": "Starbucks or nothing.",
+    "owner": "Jerry Baldwin, Zev Siegl, and Gordon Bowker"
+  },
+  { 
+    "id" : "16",
+    "questionIMG": "16.png", 
+    "solutionIMG":"16_16.png", 
+    "answer": "Thor",
+    "answer2": "",
+    "clue1": "The character, derived from the Germanic god of the same name",
+    "clue2": "This is a fictional character appearing in American comic books published by Marvel Comics",
+    "description": "Thor, American comic strip superhero created for Marvel Comics by writer Stan Lee and artist Jack Kirby. The slogan is Know your place, brother!.",
+    "slogan": "Know your place, brother!",
+    "owner": "Writer Stan Lee"
+  },
+  { 
+    "id" : "17",
+    "questionIMG": "17.png", 
+    "solutionIMG":"17_17.png", 
+    "answer": "Playstation",
+    "answer2": "",
+    "clue1": " It is a video game brand that consists five home video game console,two handhelds, a media center, and a smartphone ",
+    "clue2": "It is commonly known as the PS1 ",
+    "description": "The Playstation brand is produced by Sony Interactive Entertainment, a division of Sony; the first PlayStation console was released in Japan in December 1994. The brand tagline is live in your world. play in ours",
+    "slogan": "live in your world. play in ours",
+    "owner": "Sony Interactive Entertainment 'Jim Ryan'(CEO)"
+  },
+  { 
+    "id" : "18",
+    "questionIMG": "18.png", 
+    "solutionIMG":"18_18.png", 
+    "answer": "BigBasket",
+    "answer2": "",
+    "clue1": "It is an India's largest supermarket ",
+    "clue2": "It is an online grocery store in India.",
+    "description": "BigBasket was founded by V. S. Sudhakar, Hari Menon, Vipul Parekh, Abhinay Choudhari and V. S. Ramesh in 2011.",
+    "slogan": "Har Din Sasta,",
+    "owner": "Hari Menon V. S. Sudhakar Vipul Parekh Abhinay Choudhari V. S. Ramesh"
+  },
+  { 
+    "id" : "19",
+    "questionIMG": "19.png", 
+    "solutionIMG":"19_19.png", 
+    "answer": "Yamaha",
+    "answer2": "",
+    "clue1": "It is a Japanese manufacturer of motorcycles, marine products such as boats and outboard motors, and other motorized products.",
+    "clue2": "The world leader in water vehicle sales .",
+    "description": " In 1955, Genichi Kawakami, the Yamaha Motor company's founder and first president. It is a Japanese manufacturer of motorcycles, marine products such as boats and outboard motors, and other motorized products. The slogan is Revs your Heart. ",
+    "slogan": "Revs your Heart",
+    "owner": "Torakusu Yamaha"
+  },
+  { 
+    "id" : "20",
+    "questionIMG": "20.png", 
+    "solutionIMG":"20_20.png", 
+    "answer": "Olive",
+    "answer2": " Garden",
+    "clue1": "It is known for its Italian-American dishes and, of course, its unlimited salad and breadsticks.",
+    "clue2": "It is an American casual dining restaurant chain specializing in Italian-American cuisine. ",
+    "description": "Olive Garden started as a unit of General Mills. The first Olive Garden was opened on December 13, 1982, in Orlando by Bill Darden. The slogan is We're all family here.",
+    "slogan": "We're all family here.",
+    "owner": "General Mills"
+  }
+
+]
+
+  
