@@ -1,0 +1,249 @@
+﻿[
+	{
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png", 
+    "solutionIMG":"1_1.png", 
+    "answer": "Coca Cola",
+    "answer2": "",
+    "clue1": "It is a carbonated soft drink, black in colour. ",
+    "clue2": "The Bottle was first introduced as a 'contour bottle' or 'hobble-skirt' bottle.",
+    "description": "In July 1886, pharmacist John Stith Pemberton from Columbus, Georgia invented the original Coca-Cola drink. The Coca-Cola Company is an American multinational beverage corporation incorporated under Delaware's General Corporation Lawand headquartered in Atlanta, Georgia. The slogan is Sign of Good Taste.",
+    "slogan": "Sign of Good Taste.",
+    "owner": "Dr. John Pemberton"
+  },
+  { 
+    "id" : "2",
+    "questionIMG": "2.png", 
+    "solutionIMG":"2_2.png", 
+    "answer": "Burger ",
+    "answer2": "King",
+    "clue1": "It is the second largest fast food hamburger chain in the world.",
+    "clue2": "It is most famous item is Whopper.",
+    "description": "The predecessor to Burger King was founded in 1953 in Jacksonville, Florida, as Insta-Burger King. After Insta-Burger King ran into financial difficulties in 1954, its two Miami-based franchisees David Edgerton and James McLamore purchased the company and renamed it Burger King. The slogan is Burger King, where you're the boss!",
+    "slogan": "Burger King, where you're the boss!",
+    "owner": "James McLamore and David Edgerton"
+  },
+  { 
+    "id" : "3",
+    "questionIMG": "3.png", 
+    "solutionIMG":"3_3.png", 
+    "answer": "Tommy ",
+    "answer2": "Hilfiger",
+    "clue1": "One of the world's leading designer lifestyle brands of classic American cool style.",
+    "clue2": "It is an American premium clothing brand, manufacturing apparel, footwear, accessories, fragrances and home furnishings.",
+    "description": "Tommy Hilfiger’s career in fashion began in 1968  debuted his first signature collection,which featured modernized versions of button-down shirts, chinos, and other classic preppy styles. TOMMY HILFIGER is one of the world's leading designer lifestyle brands and is internationally recognized for celebrating the essence of classic American cool style, featuring preppy with a twist designs.",
+    "slogan": "Fashion is fleeting; style is forever. Style is how you put yourself together.",
+    "owner": "Tommy Hilfiger"
+  },
+  { 
+    "id" : "4",
+    "questionIMG": "4.png", 
+    "solutionIMG":"4_4.png", 
+    "answer": "Gillette",
+    "answer2": "",
+    "clue1": "It is an American brand of safety razors and other personal care products including shaving supplies",
+    "clue2": "They also launched toothbrushes in the well-known international brand name Oral B",
+    "description": " The Gillette Company was founded by King C. Gillette in 1901 as a safety razor manufacturer. The slogan is The Best Men Can Be",
+    "slogan": "The Best Men Can Be",
+    "owner": "King Camp Gillette"
+  },
+  { 
+    "id" : "5",
+    "questionIMG": "5.png", 
+    "solutionIMG":"5_5.png", 
+    "answer": "Snapchat",
+    "answer2": "",
+    "clue1": "In this app we can creat our biemoji avtars & can add filters and AR-based lenses.",
+    "clue2": "It is an American multimedia instant messaging app and service",
+    "description": "Snapchat was created by Evan Spiegel, Bobby Murphy, and Reggie Brown, former students at Stanford University.The three worked closely together for several months and launched Snapchat as 'Picaboo' on the iOS operating system on July 8, 2011. Snapchat is an American multimedia instant messaging app and service developed by Snap Inc. The slogan is Life's more fun when you live in the moment.",
+    "slogan": "Life's more fun when you live in the moment.",
+    "owner": "Evan Thomas Spiegel"
+  },
+  { 
+    "id" : "6",
+    "questionIMG": "6.png", 
+    "solutionIMG":"6_6.png", 
+    "answer": "Zoom",
+    "answer2": "",
+    "clue1": "In light of the coronavirus crisis, the videoconferencing app has become the standard for connecting with others.",
+    "clue2": "It is a mobile and desktop app mostly used for meetings.",
+    "description": "Zoom Video Communications, Inc. is an American communications technology company headquartered in San Jose, California. Zoom was founded by Eric Yuan, in 2011. The slogan is We're for creators",
+    "slogan": "We're for creators",
+    "owner": "Eric Yuan"
+  },
+  { 
+    "id" : "7",
+    "questionIMG": "7.png", 
+    "solutionIMG":"7_7.png", 
+    "answer": "Wikipedia",
+    "answer2": "",
+    "clue1": "It is a free Internet-based encyclopaedia",
+    "clue2": "The largest encyclopedia in the world.",
+    "description": "On January 15, 2001, Jimmy Wales and Larry Sanger launched Wikipedia. Wikipedia uses a collaborative software known as wiki that facilitates the creation and development of articles The slogan is Wikipedia, at last free knowledge for all.",
+    "slogan": "Wikipedia, at last free knowledge for all",
+    "owner": "Jimmy Wales and Larry Sanger"
+  },
+  { 
+    "id" : "8",
+    "questionIMG": "8.png", 
+    "solutionIMG":"8_8.png", 
+    "answer": "M&M",
+    "answer2": "",
+    "clue1": "This multicoloured button shaped candies looks similer to james.",
+    "clue2": "The logo of candies stands for mars and murrie.",
+    "description": "M&Ms were inspired by rations given to soldiers during the Spanish Civil War. The candy originated in the United States in 1941 by Forrest Mars. The slogan is Melts in your mouth, not in your hands.",
+    "slogan": "Melts in your mouth, not in your hands",
+    "owner": "Forrest Mars"
+  },
+  { 
+    "id" : "9",
+    "questionIMG": "9.png", 
+    "solutionIMG":"9_9.png", 
+    "answer": "Netflix",
+    "answer2": "",
+    "clue1": "It is a subscription-based streaming service still leading in best streaming services .",
+    "clue2": "It is a media-streaming and video-rental company founded in 1997 by American entrepreneurs",
+    "description": "Netflix was founded in 1997 by Reed Hastings and Marc Randolph in Scotts Valley, California. Netflix, Inc. is an American subscription streaming service and production company. The slogan is See what's next.",
+    "slogan": "See what's next",
+    "owner": "Marc Randolph and Reed Hastings"
+  },
+  { 
+    "id" : "10",
+    "questionIMG": "10.png", 
+    "solutionIMG":"10_10.png", 
+    "answer": "Lay's",
+    "answer2": "",
+    "clue1": "It is one of the first snacks which was advertised on Television back in 1944",
+    "clue2": "It is a brand of potato chips",
+    "description": "In 1932, salesman Herman Lay opened a snack food operation in Nashville, Tennessee. The business shortened its name to “the Lay’s Lay Lingo Company” in 1944. The brand has also sometimes been referred to as Frito-Lay because both Lay’s and Fritos are brands sold by the Frito-Lay company, which has been a wholly owned subsidiary of PepsiCo since 1965. The slogan is No one can eat just one.",
+    "slogan": "No one can eat just one.",
+    "owner": "Herman Lay"
+  },
+  { 
+    "id" : "11",
+    "questionIMG": "11.png", 
+    "solutionIMG":"11_11.png", 
+    "answer": "ICBC",
+    "answer2": "",
+    "clue1": "This Bank was the largest of one thousand global banks.",
+    "clue2": " It is a Chinese multinational banking company.",
+    "description": "Industrial and Commercial Bank of China Limited (ICBC) is a Chinese multinational banking company. It is the largest bank in China. It was founded as a limited company on January 1, 1984 and Jiang Jianqing is the Chairman of the Board of Directors, Executive Director at Industrial and Commercial Bank of China. The slogan is By your side, as your trust",
+    "slogan": "By your side, as your trust",
+    "owner": "Jiang Jianqing (chairman)"
+  },
+  { 
+    "id" : "12",
+    "questionIMG": "12.png", 
+    "solutionIMG":"12_12.png", 
+    "answer": "Castrol",
+    "answer2": "Oil",
+    "clue1": "It is an engine oil.",
+    "clue2": "It is an automotive lubricants, offering a wide range of oil, greases.",
+    "description": "The 'Wakefield Oil Company' was founded by Charles Wakefield in 1899. Castrol is a British oil company that markets industrial and automotive lubricants, offering a wide range of oils, greases and similar products for most lubrication applications. The slogan is Castrol liquid engineering",
+    "slogan": "Castrol liquid engineering",
+    "owner": "Charles Wakefield"
+  },
+  { 
+    "id" : "13",
+    "questionIMG": "13.png", 
+    "solutionIMG":"13_13.png", 
+    "answer": "Nutella",
+    "answer2": "",
+    "clue1": " It is a brand of sweetened hazelnut cocoa spread.",
+    "clue2": "This hazelnut cocoa spread manufactured by the Italian company Ferrero",
+    "description": "In 1963, Ferrero’s son Michele Ferrero revamped Supercrema gianduja with the intention of marketing it throughout Europe. Its composition was modified, and it was renamed Nutella. The first jar of Nutella left the factory in Alba on April 20, 1964.Nutella is described as a chocolate and hazelnut spread, although it is mostly made of sugar and palm oil. The slogan is Spread the Happy.",
+    "slogan": "Spread the Happy",
+    "owner": "Michele Ferrero"
+  },
+  { 
+    "id" : "14",
+    "questionIMG": "14.png", 
+    "solutionIMG":"14_14.png", 
+    "answer": "IKEA",
+    "answer2": " ",
+    "clue1": "one of the best-known and most successful home furniture companies in the world.",
+    "clue2": "The company sells ready-to-assemble furniture, kitchen ware and home accessories.",
+    "description": "In 1943, Ingvar Kamprad founded IKEA as a mail-order sales business, and began to sell furniture five years later. Today, IKEA is a multinational group of companies founded in Sweden that sells ready to assemble furniture, kitchen ware and home accessories.The slogan is 'creating a better everyday life for the many people'",
+    "slogan": "creating a better everyday life for the many people",
+    "owner": "Ingvar Kamprad"
+  },
+  { 
+    "id" : "15",
+    "questionIMG": "15.png", 
+    "solutionIMG":"15_15.png", 
+    "answer": "Nescafe",
+    "answer2": "",
+    "clue1": "It mixes great with milk and cold water if you want an iced drink.",
+    "clue2": "It's a brand of coffee made by Nestle.",
+    "description": "Nestle began developing a coffee brand in 1930, at the initiative of the Brazilian government, to help to preserve the substantial surplus of the annual Brazilian coffee harvest. Max Morgenthaler led the development project. Nestle introduced the new product under the brand name Nescafe on 1 April 1938. The slogan is It all starts with a Nescafe",
+    "slogan": "It all starts with a Nescafe",
+    "owner": "Dr. Max Morgenthaler"
+  },
+  { 
+    "id" : "16",
+    "questionIMG": "16.png", 
+    "solutionIMG":"16_16.png", 
+    "answer": "Spotify",
+    "answer2": "",
+    "clue1": "It is a digital music, podcast, and video service",
+    "clue2": "It is the world's largest music streaming service provider. ",
+    "description": "Spotify is a Swedish audio streaming and media services provider founded on 23 April 2006 by Daniel Ek and Martin Lorentzon. It is the world's largest music streaming service provider. The slogan is Music for everyone.",
+    "slogan": "Music for everyone.",
+    "owner": "Daniel Ek , Martin Lorentzon"
+  },
+  { 
+    "id" : "17",
+    "questionIMG": "17.png", 
+    "solutionIMG":"17_17.png", 
+    "answer": "Doritos",
+    "answer2": "",
+    "clue1": "It is an American brand of flavored tortilla chips",
+    "clue2": "In Spanish it means little golden things ",
+    "description": "Doritos is an American brand of flavored tortilla chips produced since 1964 by Frito-Lay, a wholly owned subsidiary of PepsiCo. The original product was made at the Casa de Fritos at Disneyland in Anaheim, California, during the early 1960s. Arch West was the vice president of marketing of Frito-Lay. First released in 1974, Nacho Cheese Doritos consist of three main flavors: Romano cheese, garlic powder and salt. The slogan is For the bold",
+    "slogan": "For the bold",
+    "owner": "Arch West"
+  },
+  { 
+    "id" : "18",
+    "questionIMG": "18.png", 
+    "solutionIMG":"18_18.png", 
+    "answer": "Youtube",
+    "answer2": "",
+    "clue1": "This software is to watch music videos, comedy shows, how to guides, recipes, hacks and more.",
+    "clue2": " It is an American video-sharing website headquartered in San Bruno, California.",
+    "description": " ",
+    "slogan": "",
+    "owner": "Steve Chen, Chad Hurley, and Jawed Karim"
+  },
+  { 
+    "id" : "19",
+    "questionIMG": "19.png", 
+    "solutionIMG":"19_19.png", 
+    "answer": "Tropicana",
+    "answer2": "",
+    "clue1": "The perfect combination of taste and nutrition!",
+    "clue2": "This soft drink line has largely replaced Pepsi's Slice soft drinks.",
+    "description": "Tropicana Products, Inc. is the name of a former American multinational fruit-based beverages company. It was founded in 1947 by Anthony T. Rossi in Bradenton, Florida. Between 1998 and 2021 it was a subsidiary of PepsiCo. The slogan is Feel pure good",
+    "slogan": "Feel pure good.",
+    "owner": "Anthony T. Rossi"
+  },
+  { 
+    "id" : "20",
+    "questionIMG": "20.png", 
+    "solutionIMG":"20_20.png", 
+    "answer": "Cheetos",
+    "answer2": "",
+    "clue1": "A crunchy, cheese-flavored snack made from extruded cornmeal.",
+    "clue2": "An America's yummiest snacks",
+    "description": "Cheetos were invented in 1948 by Fritos creator Charles Elmer Doolin. Cheetos is a crunchy cheese corn puff snack brand made by Frito-Lay, a subsidiary of PepsiCo.",
+    "slogan": "Dangerously cheesy",
+    "owner": "Charles Elmer Doolin"
+  }
+
+]
+
+  
