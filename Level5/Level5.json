@@ -1,0 +1,249 @@
+﻿[
+	{
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png", 
+    "solutionIMG":"1_1.png", 
+    "answer": "Hilton ",
+    "answer2": "",
+    "clue1": "One of the largest hotel brands in the world.",
+    "clue2": "The brand is targeted at both business and leisure travelers with locations in major city centers, near airports, convention centers, and popular vacation destinations around the world.",
+    "description": "Hilton is founded by Conrad Hilton in 1919. Hilton Hotels Corporation is recognized internationally as a preeminent hospitality company. The company develops, owns, manages or franchises approximately 2,200 hotels, resorts and vacation ownership properties.The slogan is Take me to the Hilton.",
+    "slogan": "Take me to the Hilton. ",
+    "owner": "Conrad Hilton"
+  },
+  { 
+    "id" : "2",
+    "questionIMG": "2.png", 
+    "solutionIMG":"2_2.png", 
+    "answer": "Linkedin",
+    "answer2": "",
+    "clue1": "It is the world's largest professional networking website.",
+    "clue2": "This software help you to build connections in your industry and to stay in touch with colleagues, past and present.",
+    "description": "Reid Hoffman founded Linkedin in 2003. LinkedIn is an American business- and employment-oriented online service that operates via websites and mobile apps. The slogan is Connect to Oppportunity.",
+    "slogan": "Connect to Oppportunity.",
+    "owner": "Reid Hoffman"
+  },
+  { 
+    "id" : "3",
+    "questionIMG": "3.png", 
+    "solutionIMG":"3_3.png", 
+    "answer": "Mitsubishi",
+    "answer2": "",
+    "clue1": "It is the sixth-largest Japanese automaker and the 19th-largest worldwide by production ",
+    "clue2": "It is a Japanese multinational automotive manufacturer headquartered in Minato, Tokyo, Japan.",
+    "description": "Mitsubishi Motors is founded by Iwasaki Yatarō in 1970. Mitsubishi Motors is a Japanese multinational automotive manufacturer headquartered in Minato, Tokyo, Japan. The slogan is Drive your Ambition",
+    "slogan": "Drive your Ambition",
+    "owner": "Iwasaki Yatarō"
+  },
+  { 
+    "id" : "4",
+    "questionIMG": "4.png", 
+    "solutionIMG":"4_4.png", 
+    "answer": "Motogp",
+    "answer2": "",
+    "clue1": "It is a premiere motorcycle world championship established by FIM",
+    "clue2": "Grand Prix motorcycle racing is the premier class of motorcycle road racing events held on road circuits",
+    "description": "The foundation of the Fédération Internationale de Motocyclisme as the international governing body for motorcycle sport in 1949 provided the opportunity to coordinate rules and regulations in order that selected events could count towards official World Championships. The slogan is Ready to Race.",
+    "slogan": "Ready to Race.",
+    "owner": "Dorna Sports"
+  },
+  { 
+    "id" : "5",
+    "questionIMG": "5.png", 
+    "solutionIMG":"5_5.png", 
+    "answer": "NBA",
+    "answer2": "",
+    "clue1": "It is a professional basketball league in North America. ",
+    "clue2": "The league was founded in New York City on June 6, 1946, as the Basketball Association of America",
+    "description": "Walter A. Brown, In 1946 founded (NBA), the national basketball association. The National Basketball Association (NBA) is a professional basketball league in North America. The slogan is This is why we play",
+    "slogan": "This is why we play",
+    "owner": "Walter A. Brown"
+  },
+  { 
+    "id" : "6",
+    "questionIMG": "6.png", 
+    "solutionIMG":"6_6.png", 
+    "answer": "Nickelodeon ",
+    "answer2": "",
+    "clue1": "The Most Iconic Show of the channel is “SpongeBob SquarePants”.",
+    "clue2": "It is an American-based cable television channel, focused on children's programming",
+    "description": "Nickelodeon's concept was created by Dr. Vivian Horner, She created the first Nickelodeon series, Pinwheel. Nickelodeon (often shortened to Nick) is an American pay television network which was launched on December 1, 1977 as the first cable channel for children. the slogan is NICK IS KIDS",
+    "slogan": "NICK IS KIDS",
+    "owner": "Vivian Horner"
+  },
+  { 
+    "id" : "7",
+    "questionIMG": "7.png", 
+    "solutionIMG":"7_7.png", 
+    "answer": "Odlums",
+    "answer2": "",
+    "clue1": "It is a flour and oatmeal milling company.",
+    "clue2": "It is a glutan free product & owned by Valeo Foods since September 2010.",
+    "description": "A flour mill operated by William Odlum, one of three Odlum brothers, in Maryborough began operation in 1845. Odlums Group is an Irish food processing and marketing company, which is backed by Origin Enterprises and CapVest Limited, a European investment group. The slogan is One bite and you'll overrule all objections.",
+    "slogan": "One bite and you'll overrule all objections.",
+    "owner": "William Odlum"
+  },
+  { 
+    "id" : "8",
+    "questionIMG": "8.png", 
+    "solutionIMG":"8_8.png", 
+    "answer": "Oreo",
+    "answer2": "",
+    "clue1": "it is widely regarded as the best-selling cookie of all time",
+    "clue2": "It is a combination of factors - taste of vanilla cream and chocolate biscuit sandwich.",
+    "description": "The Oreo Biscuit was first developed and produced by the National Biscuit Company in 1912 . Oreo is a brand of creme-filled sandwich cookie, consisting of two wafers with a sweet crème filled. The slogan is You can still dunk in the dark",
+    "slogan": "You can still dunk in the dark.",
+    "owner": "Sam Porcello"
+  },
+  { 
+    "id" : "9",
+    "questionIMG": "9.png", 
+    "solutionIMG":"9_9.png", 
+    "answer": "Peugeot",
+    "answer2": "",
+    "clue1": "It is a French brand of automobiles owned by Stellantis.",
+    "clue2": "The world's second oldest car manufacturer and the oldest continuous car brand.",
+    "description": "Armand Peugeot built the company's first car steam tricycle, in collaboration with Léon Serpollet in 1889; this was followed in 1890 by an internal combustion car with a Panhard-Daimler engine. PEUGEOT began life as an industrial manufacturer way back in 1810 – a steel foundry producing products such as band saws, umbrella frames and coffee grinders. The slogan is Motion and Emotion",
+    "slogan": "Motion and Emotion",
+    "owner": "Armand Peugeot "
+  },
+  { 
+    "id" : "10",
+    "questionIMG": "10.png", 
+    "solutionIMG":"10_10.png", 
+    "answer": "Pinterest",
+    "answer2": "",
+    "clue1": "It is unique business model that differentiates it from other photo-sharing websites.",
+    "clue2": "It has a feauter of Sharing: Want to share a Pin, board, or profile?",
+    "description": "The site was created by Ben Silbermann, Paul Sciarra, and Evan Sharp, in 2009. Pinterest is an image sharing and social media service designed to enable saving and discovery of information on the internet using images, and on a smaller scale, animated GIFs and videos, in the form of pinboards.The slogan is When it comes to a great idea, you know it when you see it.",
+    "slogan": "When it comes to a great idea, you know it when you see it.",
+    "owner": "Evan Sharp, Ben Silbermann & Paul sciarra."
+  },
+  { 
+    "id" : "11",
+    "questionIMG": "11.png", 
+    "solutionIMG":"11_11.png", 
+    "answer": "Playboy",
+    "answer2": "",
+    "clue1": " It is an American men's lifestyle and entertainment magazine, formerly in print and currently online.",
+    "clue2": "It is an adult entertainment company.",
+    "description": "It was founded in Chicago in 1953, by Hugh Hefner.  Playboy Enterprises, Inc. is an international powerhouse in the publishing, entertainment, and licensing industries. The slogan is Entertainment For All. The slogan is Entertainment For All.",
+    "slogan": "Entertainment For All.",
+    "owner": "Hugh Hefner"
+  },
+  { 
+    "id" : "12",
+    "questionIMG": "12.png", 
+    "solutionIMG":"12_12.png", 
+    "answer": "Puma",
+    "answer2": "",
+    "clue1": "This company has made history as a creator of fast product designs for the fastest athletes on the planet.",
+    "clue2": "The company Designs and manufactures athletic and casual footwear, apparel and accessories.",
+    "description": "Puma, the company was founded in 1948 by Rudolf Dassler. It enhance sports such as football, running and training, golf, basketball and motorsports with performance and sport-inspired lifestyle products. the slogan is We Are Forever Faster.",
+    "slogan": "We Are Forever Faster.",
+    "owner": "Rudolf Dassler"
+  },
+  { 
+    "id" : "13",
+    "questionIMG": "13.png", 
+    "solutionIMG":"13_13.png", 
+    "answer": "Ray",
+    "answer2": "ban",
+    "clue1": "This brand is famous for luxury sunglasses and eyeglasses ",
+    "clue2": "The brand is best known for their Wayfarer and Aviator styles of sunglasses.",
+    "description": "Ray-Ban is an American-Italian brand of luxury sunglasses and eyeglasses created in 1936 by Bausch & Lomb. Ray-Ban is a leader in sun and prescription eyewear for generations providing timeless style, authenticity and premium lenses and frames. The slogan is Never hide",
+    "slogan": "Never Hide.",
+    "owner": "Bausch & Lomb"
+  },
+  { 
+    "id" : "14",
+    "questionIMG": "14.png", 
+    "solutionIMG":"14_14.png", 
+    "answer": "Red",
+    "answer2": "bull ",
+    "clue1": "It is a brand of energy drinks sold by Austrian company",
+    "clue2": "It is an energy drink which help to avoide tirdeness. ",
+    "description": "Austrian entrepreneur Dietrich Mateschitz was inspired by an existing energy drink, Krating Daeng, which was introduced in 1976 in Thailand by Chaleo Yoovidhya. He modified the ingredients to suit the tastes of Westerners,and in partnership with Chaleo, founded Red Bull GmbH in 1984 in Fuschl am See, Austria. Red Bull is a brand of energy drinks sold by Austrian company Red Bull GmbH. The slogan is Red Bull gives you wings ",
+    "slogan": "Red Bull gives you wings",
+    "owner": "Dietrich Mateschitz"
+  },
+  { 
+    "id" : "15",
+    "questionIMG": "15.png", 
+    "solutionIMG":"15_15.png", 
+    "answer": "Sonic ",
+    "answer2": "",
+    "clue1": "It is an Indian children's pay television channel.",
+    "clue2": "This channel operated by Viacom 18 as part of the Nickelodeon India network.",
+    "description": "Nickelodeon Sonic (Sonic, Formerly Sonic-Nickelodeon) is an Indian children's pay television channel operated by Viacom 18 as part of the Nickelodeon India network. Viacom 18 launched the channel in December 2011.Adventures of Sonic the Hedgehog was the first Sonic television series. The slogan Thrills. Guts. Glory.",
+    "slogan": "Thrills. Guts. Glory.",
+    "owner": ""
+  },
+  { 
+    "id" : "16",
+    "questionIMG": "16.png", 
+    "solutionIMG":"16_16.png", 
+    "answer": "Ups",
+    "answer2": "",
+    "clue1": "It is American Messenger Company specializing in telegraphs.",
+    "clue2": "It is the largest courier company in the world",
+    "description": "On August 28, 1907, James Casey founded the American Messenger Company with Claude Ryan. United Parcel Service is an American multinational shipping & receiving and supply chain management company founded in 1907. The slogan is Moving at the speed of business.",
+    "slogan": "Moving at the speed of business",
+    "owner": "James E. Casey"
+  },
+  { 
+    "id" : "17",
+    "questionIMG": "17.png", 
+    "solutionIMG":"17_17.png", 
+    "answer": "Visa",
+    "answer2": "",
+    "clue1": "It facilitates electronic funds transfers throughout the world.",
+    "clue2": "Their cards are most popular in the market due to their versatility and flexible banking options.",
+    "description": "Dee Ward Hock is the founder and former CEO of the Visa credit card association and it's founded on September 18, 1958. VISA is the world's leader in digital payments. The company mission is to connect the world through the most innovative, reliable and secure payment. The slogan is It's everywhere you want to be",
+    "slogan": "It's everywhere you want to be",
+    "owner": "Dee Hock"
+  },
+  { 
+    "id" : "18",
+    "questionIMG": "18.png", 
+    "solutionIMG":"18_18.png", 
+    "answer": "Whatsapp",
+    "answer2": "",
+    "clue1": "It is the popular messaging and voice-over-IP service/ This app owned by Facebook.",
+    "clue2": "All those chats are fully encrypted by default – there's no way to turn this off.",
+    "description": "WhatsApp was founded by Brian Acton and Jan Koum, former employees of Yahoo! and reeased on January 2009. WhatsApp is free to download messenger app for smartphones. WhatsApp uses the internet to send messages, images, audio or video. The tagling for whatsaap is Simple. Secure. Reliable messaging.",
+    "slogan": "Simple. Secure. Reliable messaging.",
+    "owner": "Jan Kaum, Brian Acton"
+  },
+  { 
+    "id" : "19",
+    "questionIMG": "19.png", 
+    "solutionIMG":"19_19.png", 
+    "answer": "Xerox",
+    "answer2": "",
+    "clue1": "Digital systems include color and black-and-white printing.",
+    "clue2": "American corporation that sells print and digital document products and services in more than 160 countries.",
+    "description": "Joseph C. Wilson, credited as the founder of Xeroxand founded in 1906. Xerox Corporation is a large American conglomerate with services that include consulting, content management, imaging, and document outsourcing services, though it is best known for it photocopying department. The slogan is Work can work better.",
+    "slogan": "Work can work better",
+    "owner": "Joseph C. Wilson"
+  },
+  { 
+    "id" : "20",
+    "questionIMG": "20.png", 
+    "solutionIMG":"20_20.png", 
+    "answer": "Maestro",
+    "answer2": "",
+    "clue1": "The brand of debit cards and prepaid cards",
+    "clue2": "It is popular because of the swift services it offers &  It also offers easy cash access.",
+    "description": "Mastercard Maestro is a brand of debit cards and prepaid cards owned by Mastercard that was introduced in 1991.Maestro debit cards are obtained from associate banks and are linked to the cardholder's savings account, current account or any of several other types of accounts, while prepaid cards do not require a bank account to operate. Maestro cards can be used at point of sale (POS) and ATMs.. The slogan is The new cash.",
+    "slogan": "The new cash.",
+    "owner": "Mastercard Inc."
+  }
+
+]
+
+  
