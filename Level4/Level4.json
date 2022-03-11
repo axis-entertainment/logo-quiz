@@ -1,0 +1,249 @@
+﻿[
+	{
+
+
+  },
+  { 
+    "id" : "1",
+    "questionIMG": "1.png", 
+    "solutionIMG":"1_1.png", 
+    "answer": "Mercedes",
+    "answer2": "",
+    "clue1": "It is consumer luxury vehicles",
+    "clue2": "The most advanced, luxurious, and performance-oriented automobiles on the planet, it gave the world the first production automobile.",
+    "description": " Karl benz founded Mercedes in 1926. Mercedes-Benz commonly referred to as just Mercedes, is a German luxury automotive marque. The company focuses on the development, production and sales of passenger cars, vans and vehicle-related services.Mercedes-Benz AG is one of the world's largest manufacturers of luxury passenger cars.",
+    "slogan": "The best or nothing",
+    "owner": "Karl Benz."
+  },
+  { 
+    "id" : "2",
+    "questionIMG": "2.png", 
+    "solutionIMG":"2_2.png", 
+    "answer": "Money",
+    "answer2": "mailer",
+    "clue1": "The company distributes oversized red, white, and blue envelopes filled with coupons promoting local businesses.",
+    "clue2": "This service, hopes to bring in cash by mailing out coupons.",
+    "description": "Money Mailer founded in 1979 by Gray Mulloy. Money Mailer is a thriving direct mail marketing company that helps grow local businesses by putting a premium product into the hands of affluent consumers in their area.",
+    "slogan": "Marketing Done Right.",
+    "owner": "Gary Mulloy ."
+  },
+  { 
+    "id" : "3",
+    "questionIMG": "3.png", 
+    "solutionIMG":"3_3.png", 
+    "answer": "Pampers",
+    "answer2": "",
+    "clue1": "It is a brand of baby and toddler products, made from soft, breathable materials.",
+    "clue2": "Sanitary products like diapers are high-quality diapers designed for easy management of baby wastes.",
+    "description": "In 1956, Vic Mills assigned researchers at Miami Valley to investigate the practicality of a disposable diaper. Pampers is an American brand with high-quality diapers that are designed to be disposable. This brand is dedicated to baby's health development. The slogan is Love Sleep & Play",
+    "slogan": "Love Sleep & Play.",
+    "owner": "Victor Mills"
+  },
+  { 
+    "id" : "4",
+    "questionIMG": "4.png", 
+    "solutionIMG":"4_4.png", 
+    "answer": "Rio",
+    "answer2": "",
+    "clue1": "The Games were the 28th occurrence of the modern Olympic Games.",
+    "clue2": " It is an international multi-sport event held from 5 to 21 August 2016 in Rio de Janeiro.",
+    "description": "The 2016 Summer Olympics officially the Games of the XXXI Olympiad and also known as Rio 2016, were an international multi-sport event held from 5 to 21 August 2016 in Rio de Janeiro, Brazil",
+    "slogan": "",
+    "owner": "Baron Pierre de Coubertin (International Olympic Committee)"
+  },
+  { 
+    "id" : "5",
+    "questionIMG": "5.png", 
+    "solutionIMG":"5_5.png", 
+    "answer": "Royal",
+    "answer2": "Enfield",
+    "clue1": " It is an Indian multinational motorcycle manufacturing company",
+    "clue2": "The most iconic motorcycles ever to grace the roads of planet Earth.",
+    "description": "Albert Eadie and Robert Walker Smith founded Royal Enfield. In 1955,  Royal Enfield is an Indian multinational motorcycle manufacturing company headquartered in Chennai, Tamil Nadu, India. The slogan is Made like a gun.",
+    "slogan": "Made like a gun",
+    "owner": "Albert Eadie and Robert Walker Smith"
+  },
+  { 
+    "id" : "6",
+    "questionIMG": "6.png", 
+    "solutionIMG":"6_6.png", 
+    "answer": "Siemens ",
+    "answer2": "",
+    "clue1": "It is a global innovator focusing on digitalization, electrification and automation for the process and manufacturing industries.",
+    "clue2": "The company is leader in power generation and distribution, intelligent infrastructure, and distributed energy systems.",
+    "description": "In 1847, Verner Von siemens founded Siemens AG. Siemens is one of the world's biggest producers of energy-efficient, resource-saving technologies, Siemens is a pioneer in infrastructure and energy solutions, automation and software for industry and is a leader in medical diagnosis. The slogan is Ingenuity for life",
+    "slogan": "Ingenuity for life",
+    "owner": "Verner Von siemens"
+  },
+  { 
+    "id" : "7",
+    "questionIMG": "7.png", 
+    "solutionIMG":"7_7.png", 
+    "answer": "Toblerone",
+    "answer2": "",
+    "clue1": "It is  is a Swiss chocolate brand.",
+    "clue2": "It is a Sweet silky swiss Chocolate bar in a triangular shape.",
+    "description": "Toblerone is a Swiss chocolate bar made with honey and almond nougat. Created in 1908 by Theodor Tobler, Toblerone is now available around the world. The slogan is Make Time For Tolerone.",
+    "slogan": "Make Time For Tolerone.",
+    "owner": "Theodor Tobler"
+  },
+  { 
+    "id" : "8",
+    "questionIMG": "8.png", 
+    "solutionIMG":"8_8.png", 
+    "answer": "Disney ",
+    "answer2": "",
+    "clue1": "A pioneer of animated cartoon films and creator of cartoon characters as Mickey Mouse and Donald .",
+    "clue2": "They Made a full-length animated film called Snow White in 1932.",
+    "description": "Walt and Roy O. Disney, 1923 founded Walt disney. The mission of Disney Company is to entertain, inform and inspire people around the globe through the power of unparalleled storytelling, reflecting the iconic brands, creative minds and innovative technologies that make ours the world's premier entertainment company",
+    "slogan": "The Most Magical Place on Earth",
+    "owner": "Walt and Roy O. Disney"
+  },
+  { 
+    "id" : "9",
+    "questionIMG": "9.png", 
+    "solutionIMG":"9_9.png", 
+    "answer": "Barclays",
+    "answer2": "",
+    "clue1": "It is a British multinational universal bank.",
+    "clue2": "Barclays traces its origins to the goldsmith banking business established in the City of London in 1690",
+    "description": "Barclays traces its origins back to 1690, when John Freame, a Quaker, and Thomas Gould, started trading as goldsmith bankers in London. The name Barclays became associated with the business in 1736, when Freame's son-in-law James Barclay became a partner. In 1728 it's become a core part of the bank's visual identity.The slogan is “A big world needs a big bank”.",
+    "slogan": "A big world needs a big bank",
+    "owner": "John Freame and Thomas Gould"
+  },
+  { 
+    "id" : "10",
+    "questionIMG": "10.png", 
+    "solutionIMG":"10_10.png", 
+    "answer": "Chanel",
+    "answer2": "",
+    "clue1": "It is famous for timeless designs, trademark suits and most famous for it's little black dresses.",
+    "clue2": "Its products cover clothes, fragrances, handbags and watches.",
+    "description": "Chanel is a French luxury fashion house that was founded by couturière Coco Chanel in 1910. It focuses on women's ready-to-wear clothes, luxury goods and accessories. The slogan is To be irreplaceable, one must be different.",
+    "slogan": "To be irreplaceable, one must be different.",
+    "owner": "Coco Chanel"
+  },
+  { 
+    "id" : "11",
+    "questionIMG": "11.png", 
+    "solutionIMG":"11_11.png", 
+    "answer": "Cotton",
+    "answer2": "",
+    "clue1": "The organization conducts research and promotes the use of cotton.",
+    "clue2": "The fiber is most often spun into yarn or thread and used to make a soft, breathable, and durable textile.",
+    "description": "The Cotton Research and Promotion Act of 1966 enabled the establishment of Cotton Incorporated in 1970. Cotton Incorporated is a non-profit organization funded by cotton growers in the United States.The slogan is The fabric of our lives.",
+    "slogan": "The fabric of our lives.",
+    "owner": "founded by cotton growers in the United States"
+  },
+  { 
+    "id" : "12",
+    "questionIMG": "12.png", 
+    "solutionIMG":"12_12.png", 
+    "answer": "Daewoo",
+    "answer2": "",
+    "clue1": "It is known for its good cars like Cielo, Matiz and Nexia.",
+    "clue2": "In 1998 one of the best-known cars was introduced, the Matiz.",
+    "description": "It was founded on 22 March 1967 as Daewoo Industrial by Kim Woo-Choong. Daewoo was a South Korean manufacturer that was fondly known for producing value-for-money cars. The slogan is That'll be the Daewoo",
+    "slogan": "That'll be the Daewoo",
+    "owner": "Kim Woo-Choong"
+  },
+  { 
+    "id" : "13",
+    "questionIMG": "13.png", 
+    "solutionIMG":"13_13.png", 
+    "answer": "Dairy ",
+    "answer2": "queen",
+    "clue1": "It is an American chain of soft serve ice cream and dairy products.",
+    "clue2": "A popular item is the Blizzard, which is soft-serve sundae with toppings and pieces of cookies, brownies, or candy.",
+    "description": "In 1940, John Fremont McCullough founded Dairy queen. D.Q. Corp., more commonly known as Dairy Queen and it is an American chain of soft serve ice cream and fast-food restaurants owned by International Dairy Queen, Inc., a subsidiary of Berkshire Hathaway. The slogan is Happy Tastes Good",
+    "slogan": "Happy Tastes Good",
+    "owner": "John Fremont McCullough"
+  },
+  { 
+    "id" : "14",
+    "questionIMG": "14.png", 
+    "solutionIMG":"14_14.png", 
+    "answer": "Dior",
+    "answer2": "",
+    "clue1": "It is a luxury goods company famed for revolutionizing the women's fashion industry.",
+    "clue2": "French luxury fashion house controlled by Bernard Arnault, who also heads LVMH, the world's largest luxury group.",
+    "description": "The company was founded in 1946 by designer Christian Dior. It currently designs and retails leather goods, fashion accessories, footwear, jewelry, timepieces, fragrance, makeup, and skin care products, while also maintaining its tradition as a creator of haute-couture under the Christian Dior Couture division. The slogan is We Should All Be Feminists",
+    "slogan": "We Should All Be Feminists",
+    "owner": "Christian Dior"
+  },
+  { 
+    "id" : "15",
+    "questionIMG": "15.png", 
+    "solutionIMG":"15_15.png", 
+    "answer": "DKNy",
+    "answer2": "",
+    "clue1": "In New York City based fashion house specializing in fashion goods for men and women.",
+    "clue2": "It's clothing stand for Don't knock New York.",
+    "description": "DKNY is a New York City-based fashion house specializing in fashion goods for men and women, founded in 1984 by Donna Karan.The slogan is Don't Knock New York",
+    "slogan": "Don't Knock New York",
+    "owner": "Donna Karan & Stephan Weiss"
+  },
+  { 
+    "id" : "16",
+    "questionIMG": "16.png", 
+    "solutionIMG":"16_16.png", 
+    "answer": "Fcuk",
+    "answer2": "",
+    "clue1": "It is a UK-based global retailer and wholesaler of fashion clothing, accessories and homeware.",
+    "clue2": "The French Connection is a UK-based global retailer and wholesaler of clothing, accessories and homeware",
+    "description": "Stephen Marks, who started out in business in 1969 as the Stephen Marks brand, established French Connection in 1972. The company became notorious for the use of the fcuk initialism in its advertising campaigns in the early 2000s. and the fcuk stands for French Connection United Kingdom. The slogan is not offensive",
+    "slogan": "Not offensive",
+    "owner": "Stephen A. Marks"
+  },
+  { 
+    "id" : "17",
+    "questionIMG": "17.png", 
+    "solutionIMG":"17_17.png", 
+    "answer": "Nikon",
+    "answer2": "",
+    "clue1": "It is well known for its reputation as a world leader in imaging products, and its technologies continue to play a significant role in defining the photographic industry.",
+    "clue2": "It have been trusted by photographers and picture takers of every caliber for their enduring performance and outstanding image",
+    "description": "Nikon was founded on July 25, 1917 by Koyata Iwasaki and was originally known as 'Nippon Kogaku Kogyo Kabushikigaisha' or the Japan Optical Industries Co Ltd. In 1998, it was renamed after its cameras as 'Nikon Corporation'.The slogan is At the heart of the image.",
+    "slogan": "At the heart of the image",
+    "owner": "Koyata Iwasaki"
+  },
+  { 
+    "id" : "18",
+    "questionIMG": "18.png", 
+    "solutionIMG":"18_18.png", 
+    "answer": "Samsung",
+    "answer2": "",
+    "clue1": "one of the world's largest producers of electronic devices.",
+    "clue2": "This brand specializes in the production of consumer and industry electronics.",
+    "description": "Samsung is a South Korean company originally founded as a grocery trading store by Lee Byung-Chull in March 1938. The company forayed in the electronics industry in 1969 and its first electronic product was a black-and-white television. The slogan is Better Normal For All.",
+    "slogan": "Better Normal For All.",
+    "owner": "Lee Byung-chul"
+  },
+  { 
+    "id" : "19",
+    "questionIMG": "19.png", 
+    "solutionIMG":"19_19.png", 
+    "answer": "Giorgio",
+    "answer2": "Armani",
+    "clue1": "One of the most highly valued fashion companies in the world.",
+    "clue2": "The brand owner is the fashion icon who is well known for his menswear, and the owner is the italian fashion designer.",
+    "description": "Giorgio Armani S.p.A., commonly known as Armani, is an Italian luxury fashion house founded by Giorgio Armani which designs, manufactures, distributes and retails haute couture, ready-to-wear, leather goods, shoes, watches, jewelry, accessories, eyewear, cosmetics. The slogan is The wisdom of Giorgio.",
+    "slogan": "The wisdom of Giorgio",
+    "owner": ""
+  },
+  { 
+    "id" : "20",
+    "questionIMG": "20.png", 
+    "solutionIMG":"20_20.png", 
+    "answer": "Google",
+    "answer2": "",
+    "clue1": "It is primarily known around the world as an internet search engine.",
+    "clue2": "It is famous because it always had something for the people on the world wide web.",
+    "description": "Google was founded on September 4, 1998, by Larry Page and Sergey Brin while they were Ph.D.  students at Stanford University in California. Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, a search engine, cloud computing, software, and hardware. The slogan is Don't be evil.",
+    "slogan": "Don't be evil",
+    "owner": "Larry Page & Sergey Brin"
+  }
+
+]
+
+  
